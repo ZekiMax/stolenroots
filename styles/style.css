@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+}
+
+#map {
+  z-index: 0;
+  height: 100vh;
+}
+
+.siteHeader {
+  top: 14px;
+  left: 14px;
+  z-index: 2;
+  position: fixed;
+  max-width: min(160px, calc(100vw - 28px));
+}
+
+.logoLink {
+  display: block;
+  text-decoration: none;
+}
+
+.logoLink:hover {
+  text-decoration: none;
+}
+
+.siteLogo {
+  display: block;
+  width: min(160px, calc(100vw - 28px));
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgb(0 0 0 / 18%);
+  transition: transform 0.25s ease, filter 0.25s ease;
+}
+
+.logoLink:hover .siteLogo {
+  transform: translateY(-1px);
+  filter: drop-shadow(0 6px 14px rgb(11 31 58 / 22%));
+}
+
+.leaflet-bottom {
+  display: none;
+}
+
+.gitHubLink {
+  top: 182px;
+  left: 14px;
+  z-index: 1;
+  position: fixed;
+}
+
+.gitHubLink img {
+  width: 34px;
+  border-radius: 34px;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+}
+
+.gitHubLink,
+.image {
+  color: black;
+  text-decoration: none;
+}
+
+h2 {
+  margin: 16px 0;
+  margin-bottom: 0;
+}
+
+.museum {
+  margin-bottom: 16px;
+}
+
+h2,
+p {
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:not(.leaflet-control-zoom-in):hover {
+  text-decoration: underline;
+}
+
+figure {
+  all: unset;
+  display: block;
+  text-align: center;
+}
+
+.image {
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 3px 14px rgb(0 0 0 / 40%);
+}
+
+.image-toggle,
+.gallery-image {
+  display: none;
+}
+
+.image-toggle-0:checked ~ .image-slides .gallery-image-0,
+.image-toggle-1:checked ~ .image-slides .gallery-image-1,
+.image-toggle-2:checked ~ .image-slides .gallery-image-2 {
+  display: inline-block;
+}
+
+.image-controls {
+  margin-top: 8px;
+}
+
+.image-control {
+  display: inline-block;
+  margin: 0 4px;
+  padding: 4px 8px;
+  border: 1px solid #cb2b3e;
+  border-radius: 999px;
+  color: #cb2b3e;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.leaflet-popup-content {
+  max-width: 60vw;
+}
+
+.leaflet-interactive {
+  stroke-dasharray: 100%;
+  animation: line-animation 2s alternate-reverse;
+}
+
+@keyframes line-animation {
+  from {
+    stroke-dashoffset: 0;
+  }
+
+  to {
+    stroke-dashoffset: 100%;
+  }
+}
+
+@media (max-width: 640px) {
+  .siteHeader {
+    top: 10px;
+    left: 10px;
+    max-width: calc(100vw - 20px);
+  }
+
+  .siteLogo {
+    width: min(130px, calc(100vw - 20px));
+  }
+
+  .gitHubLink {
+    top: 156px;
+    left: 10px;
+  }
+}

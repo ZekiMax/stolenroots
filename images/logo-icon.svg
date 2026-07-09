@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Stolen Roots icon">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4189DD"/>
+      <stop offset="100%" stop-color="#143d73"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#eef4fb"/>
+  <path fill="url(#g)" d="M32 8 L36.2 22.8 L51.8 22.8 L39.3 31.9 L43.5 46.7 L32 37.6 L20.5 46.7 L24.7 31.9 L12.2 22.8 L27.8 22.8 Z"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M32 37.5 C32 42 30 46 28 49 C26 52 24 54 22 56" stroke="#1e4f8f" stroke-width="2"/>
+    <path d="M32 37.5 C32 42 34 46 36.5 50 C39 54 41 56 43 58" stroke="#1e4f8f" stroke-width="2"/>
+    <path d="M22 56 C18 53 14 49 11 44" stroke="#4189DD" stroke-width="1.2" stroke-dasharray="2 2" opacity="0.7"/>
+    <path d="M43 58 C47 55 51 50 54 45" stroke="#4189DD" stroke-width="1.2" stroke-dasharray="2 2" opacity="0.7"/>
+  </g>
+</svg>

@@ -1,0 +1,1747 @@
+[
+  {
+    "name": "British Museum",
+    "image": {
+      "link": "https://upload.wikimedia.org/wikipedia/commons/8/86/British_Museum_%28aerial%29.jpg",
+      "license": "CC BY 2.0",
+      "attribution": {
+        "name": "Luke Massey & the Greater London National Park City Initiative",
+        "link": "https://www.london.gov.uk/motions/greater-london-national-park-city-initiative"
+      }
+    },
+    "description": {
+      "source": "https://en.wikipedia.org/wiki/British_Museum",
+      "general": "The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London.",
+      "dispute": "The Elgin Marbles, Benin Bronzes, Ethiopian Tabots, the Rosetta Stone, and objects from the Somali collection acquired during colonial rule are among the most disputed items in its collections, and organisations have been formed demanding the return of these artefacts to their native countries."
+    },
+    "coordinates": {
+      "latitude": 51.519444,
+      "longitude": -0.126944
+    },
+    "artifacts": [
+      {
+        "name": "Aboriginal shield",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bark_shield_2008_british_museum.jpg",
+          "license": "CC BY-SA 4.0",
+          "attribution": {
+            "name": "geni"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/early-shield-australia",
+          "general": "Previously thought to be the Gweagal shield, this Aboriginal shield is made out bark and wood (red mangrove), dating to the late 1700s or early 1800s. The shield has a hole near the centre consistent with being hit by a spear.",
+          "dispute": "Following the Encounters exhibition, Rodney Kelly, a Gweagal man from Bermagui, started a campaign for the return of the shield to Australia, along with some Aboriginal spears held in Cambridge. His campaign for its return has since involved three visits to Britain, one in 2016 and two in 2017."
+        },
+        "coordinates": {
+          "latitude": -33.867778,
+          "longitude": 151.21
+        }
+      },
+      {
+        "name": "Benin Bronzes",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/7/73/Benin_brass_plaque_03_%28cropped%29.jpg",
+          "license": "CC BY-SA 3.0",
+          "attribution": {
+            "name": "Michel wal"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Benin_Bronzes",
+          "general": "The Benin Bronzes are a group of several thousand metal plaques and sculptures that decorated the royal palace of the Kingdom of Benin. Collectively, the objects form the best examples of Benin art and were created from the thirteenth century by artists of the Edo people.",
+          "dispute": "In October 2021, Nigeria demanded the return of the Benin Bronzes. Many of the Benin Bronzes in other countries, such as Germany or the United Staates, have already been returned to Nigeria."
+        },
+        "coordinates": {
+          "latitude": 6.333333,
+          "longitude": 5.616667
+        }
+      },
+      {
+        "name": "Diamond Sutra",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jingangjing.jpg",
+          "license": "Public Domain",
+          "attribution": {
+            "name": "The colophon"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Diamond_Sutra",
+          "general": "The Diamond Sutra is one of the most influential sutras in East Asia, and it is particularly prominent within the Chan tradition.",
+          "dispute": "The Diamond Sutra, among other artifacts from the Mogao Caves, have been claimed by the People's Republic of China."
+        },
+        "coordinates": {
+          "latitude": 40.037222,
+          "longitude": 94.804167
+        }
+      },
+      {
+        "name": "Elgin Marbles",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Elgin_Marbles_British_Museum.jpg",
+          "license": "CC BY-SA 2.0",
+          "attribution": {
+            "name": "Andrew Dunn",
+            "link": "http://www.andrewdunnphoto.com/html/ThumbArchitecture.html"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Elgin_Marbles",
+          "general": "The Elgin Marbles are a collection of Ancient Greek sculptures from the Parthenon and other structures from the Acropolis of Athens, removed from Ottoman Greece and now held in the British Museum.",
+          "dispute": "In 1835, the government of the newly independent Greece asked the British Museum to return the Elgin Marbles, and in 1890 the Greek minister in London asked for the return of the architectural fragments. In 1983 the Greek government formally asked the UK government to return the marbles to Greece and, in 1984, listed the dispute with UNESCO."
+        },
+        "coordinates": {
+          "latitude": 37.971667,
+          "longitude": 23.726111
+        }
+      },
+      {
+        "name": "Hoa Hakananai'a",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Angled_View_of_the_Hoa_Hakananai%27a_Statue.jpg",
+          "license": "CC BY-SA 4.0",
+          "attribution": {
+            "name": "James Miles"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Hoa_Hakananai%27a",
+          "general": "Hoa Hakananai'a is a moai, a statue from Easter Island. It was taken from Orongo, Easter Island (Rapa Nui) in 1868 by the crew of a British ship and is now in the British Museum in London.",
+          "dispute": "The Rapa Nui people consider that the moai was taken without permission. In November 2018 Laura Alarcón Rapu, the Governor of Easter Island, asked the British Museum to return the statue."
+        },
+        "coordinates": {
+          "latitude": -27.189444,
+          "longitude": -109.4425
+        }
+      },
+      {
+        "name": "Moel Hebog shield",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tarian_Moel_Hebog-_Moel_Hebog_Shield.jpg",
+          "license": "CC BY-SA 4.0",
+          "attribution": {
+            "name": "Titus Gold"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Moel_Hebog_shield",
+          "general": "The Moel Hebog shield is a large copper-alloy Yetholm-type shield from Bronze Age Britain, found in Wales in 1784, and now in the British Museum in London. It dates from 1300–1000 BC.",
+          "dispute": "There have been calls for the artefact to be returned to Wales."
+        },
+        "coordinates": {
+          "latitude": 53.00014,
+          "longitude": -4.1398
+        }
+      },
+      {
+        "name": "Mold gold cape",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/4/41/The_Mold_cape.jpg",
+          "license": "CC BY 2.0",
+          "attribution": {
+            "name": "Mark Ramsay"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Mold_gold_cape",
+          "general": "The Mold gold cape is a ceremonial cape of solid sheet-gold from Wales dating from about 1900–1600 BC in the British Bronze Age. It was found at Bryn yr Ellyllon burial mound near Mold, Flintshire in 1833.",
+          "dispute": "In 2002 Welsh Assembly Member Allison Halford urged the British Museum to hand back the Mold Cape to a North Wales museum. These calls for the Mold gold cape to be returned were echoed in 2011 by by Celtic League, a culture organisation and in 2022 by academic and former librarian of the National Library of Wales, Andrew Green."
+        },
+        "coordinates": {
+          "latitude": 53.167203,
+          "longitude": -3.141903
+        }
+      },
+      {
+        "name": "Rhos Rydd Shield",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Tarian_Rhyd_y_Gors-_Rhyd_y_Gors_Shield.jpg",
+          "license": "CC BY-SA 4.0",
+          "attribution": {
+            "name": "Titus Gold"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Rhos_Rydd_Shield",
+          "general": "The Rhos Rydd Shield is a large copper-alloy Yetholm-type shield from the Bronze Age, found in Rhos-Rydd or Rhyd y Gors, near Blaenplwyf, Wales.",
+          "dispute": "There have been calls for the artefact to return to Wales."
+        },
+        "coordinates": {
+          "latitude": 52.3601,
+          "longitude": -4.09065
+        }
+      },
+      {
+        "name": "Rosetta Stone",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rosetta_stone.jpg",
+          "license": "CC BY-SA 4.0",
+          "attribution": {
+            "name": "Hans Hillewaert"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+          "general": "The Rosetta Stone is a stele with three versions of a decree issued on behalf of King Ptolemy V Epiphanes in Memphis, Egypt.",
+          "dispute": "Calls for the Rosetta Stone to be returned from the British Museum were made in July 2003 by Zahi Hawass, then Secretary-General of Egypt's Supreme Council of Antiquities."
+        },
+        "coordinates": {
+          "latitude": 29.844722,
+          "longitude": 31.250833
+        }
+      },
+      {
+        "name": "Somali Head-rest",
+        "image": {
+          "link": "images/af1928-0509-1-head-rest.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-1"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-1",
+          "general": "A Somali wooden head-rest carved with a circular conical base, central support with four leaf-shaped carvings, and a deeply concave leaf-shaped top with small W-shaped cut-outs at each end. Painted red and black underneath with diamond and spot decoration, it was made in Somalia circa 1875-1923 and measures 17.5 cm high, 23.5 cm wide, and 9.2 cm deep.",
+          "dispute": "Purchased by the British Museum in 1928 from Lt-Col P. E. Allden as Af1928,0509.1, part of a collection of 113 objects formed in British Somaliland. The acquisition record links the wider group to the colonial-era collection of Somali material, including objects associated with Sayyid Mohammed Abdullah Hassan and his followers; Somali heritage advocates question why such everyday cultural objects remain in London rather than under Somali community control."
+        },
+        "coordinates": {
+          "latitude": 9.65,
+          "longitude": 44.08
+        }
+      },
+      {
+        "name": "Somali Comb",
+        "image": {
+          "link": "images/af1928-0509-20-comb.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-20"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-20",
+          "general": "A Somali comb in the British Museum's Africa collection, registered as Af1928,0509.20. The collection page identifies it as a comb from the same Somali Af1928,0509 group of objects acquired by the museum in 1928.",
+          "dispute": "Held in the British Museum as part of the Af1928,0509 collection formed in British Somaliland and purchased from Lt-Col P. E. Allden. Everyday Somali personal objects such as combs are part of wider debates about colonial collecting, interpretation by Somali communities, and whether cultural heritage from this acquisition should remain in London."
+        },
+        "coordinates": {
+          "latitude": 10.25,
+          "longitude": 43.85
+        }
+      },
+      {
+        "name": "Somali Spoon",
+        "images": [
+          {
+            "link": "images/af1928-0509-16-spoon-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-16"
+            }
+          },
+          {
+            "link": "images/af1928-0509-16-spoon-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-16"
+            }
+          },
+          {
+            "link": "images/af1928-0509-16-spoon-3.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-16"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-16",
+          "general": "A Somali wooden spoon carved with an oblong bowl, a flat handle decorated with geometric designs, and two prongs at the end of the handle. Made in Somalia circa 1875-1923, registration Af1928,0509.16; it measures 19 cm high, 4.6 cm wide, and 5 cm deep.",
+          "dispute": "Purchased by the British Museum in 1928 from Lt-Col P. E. Allden as part of the Af1928,0509 collection formed in British Somaliland. Everyday Somali household objects from this acquisition are part of wider debates about colonial collecting, Somali community interpretation, and whether such cultural heritage should remain in London."
+        },
+        "coordinates": {
+          "latitude": 10.1,
+          "longitude": 44.25
+        }
+      },
+      {
+        "name": "Somali Wooden Staff",
+        "image": {
+          "link": "images/af1928-0509-35-staff.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-35"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-35",
+          "general": "A Somali wooden staff or walking-stick in the British Museum's Africa collection, registered as Af1928,0509.35. The uploaded image shows a long carved wooden shaft with a curved handle and geometric decoration near the top.",
+          "dispute": "Held by the British Museum as part of the Af1928,0509 Somali collection acquired in 1928 from Lt-Col P. E. Allden. Objects from this British Somaliland collection are part of wider Somali heritage debates about colonial collecting, community interpretation, and whether cultural material from regions such as Sanaag and Bari should remain abroad."
+        },
+        "coordinates": {
+          "latitude": 10.6162,
+          "longitude": 47.3679
+        }
+      },
+      {
+        "name": "Somali Incense-burner",
+        "images": [
+          {
+            "link": "images/af1928-0509-72-incense-burner-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-72"
+            }
+          },
+          {
+            "link": "images/af1928-0509-72-incense-burner-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-72"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-72",
+          "general": "A Somali incense-burner or decorated vessel in the British Museum's Africa collection, registered as Af1928,0509.72. The object is shown with pierced decoration, a handle, and an open top, reflecting Somali domestic craft traditions.",
+          "dispute": "Held by the British Museum as part of the Af1928,0509 Somali collection acquired in 1928 from Lt-Col P. E. Allden. Household and ritual objects from this British Somaliland collection are part of wider debates about colonial collecting, Somali community interpretation, and the return of cultural heritage from regions such as Sanaag and Bari."
+        },
+        "coordinates": {
+          "latitude": 11.2842,
+          "longitude": 49.1816
+        }
+      },
+      {
+        "name": "Somali Club",
+        "images": [
+          {
+            "link": "images/af1928-0509-31-club-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-31"
+            }
+          },
+          {
+            "link": "images/af1928-0509-31-club-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-31"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-31",
+          "general": "A Somali club carved from wood, with a cylindrical handle that flares into a cone-shaped head, a band of geometric designs near the head, and four prongs projecting from the underside. Made in Somalia circa 1875-1923, registration Af1928,0509.31; it measures 53 cm high, 8.5 cm wide, and 8.3 cm deep.",
+          "dispute": "Purchased by the British Museum in 1928 from Lt-Col P. E. Allden as part of the Af1928,0509 collection formed in British Somaliland. Weapons and personal objects from this colonial-era Somali collection remain part of debates about provenance, community interpretation, and whether heritage from regions such as Sanaag and Bari should be held in London."
+        },
+        "coordinates": {
+          "latitude": 10.9936,
+          "longitude": 47.0975
+        }
+      },
+      {
+        "name": "Somali Fork",
+        "images": [
+          {
+            "link": "images/af1928-0509-26-fork-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-26"
+            }
+          },
+          {
+            "link": "images/af1928-0509-26-fork-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-26"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-26",
+          "general": "A Somali fork made of iron with a wooden handle, produced by Tomal makers at Upper Sheikh in 1921. The iron shaft is sharpened to a point at one end and curled into a circle at the other, with geometric patterns carved at either end of the handle; the British Museum register notes it was used for eating meat.",
+          "dispute": "Purchased by the British Museum in 1928 from Lt-Col P. E. Allden as part of the Af1928,0509 collection formed in British Somaliland. Everyday tools from Sheikh and nearby Sanaag/Bari regions are part of wider debates about colonial collecting, provenance, and Somali community control over cultural heritage held abroad."
+        },
+        "coordinates": {
+          "latitude": 9.9957,
+          "longitude": 45.1719
+        }
+      },
+      {
+        "name": "Somali Breast Ornament",
+        "image": {
+          "link": "images/somali-breast-ornament-british-museum.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/term/BIOG201650",
+          "general": "A 19th-century silver Somali breast ornament (sansaaro) of two linked crescents with filigree, chains, and bells, collected in the Horn of Africa and now held in the British Museum. Such ornaments were worn by Somali women as part of traditional dress and mark regional identity.",
+          "dispute": "The piece was purchased by Lieutenant Colonel P. E. Allden of the Camel Corps in British Somaliland and acquired by the museum in 1928 as part of the Af1928,0509 Somali collection; museum records link it to the anti-colonial Dervish movement. Researchers and Somali diaspora communities, including through the British Museum's Object Journeys project, have questioned the colonial circumstances of its collection and called for greater Somali community control over how it is interpreted, displayed, and whether it should remain in London."
+        },
+        "coordinates": {
+          "latitude": 9.5,
+          "longitude": 44.0
+        }
+      },
+      {
+        "name": "Somali Ear-rings",
+        "image": {
+          "link": "images/af1928-0509-67-a-b-ear-rings.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-67-a-b"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-67-a-b",
+          "general": "A pair of Somali silver ear-rings, each made with a loop, a silver rectangle, and four sets of two hanging tassels with a bell at the end. Made in Somalia circa 1875-1923, registration Af1928,0509.67.a-b; the two earrings measure about 7 cm and 6.5 cm high.",
+          "dispute": "Purchased by the British Museum in 1928 from Lt-Col P. E. Allden as part of the Af1928,0509 collection formed in British Somaliland. Somali jewellery from this colonial-era acquisition is part of wider debates about cultural ownership, community interpretation, and the return of heritage objects held in London."
+        },
+        "coordinates": {
+          "latitude": 9.8,
+          "longitude": 44.35
+        }
+      },
+      {
+        "name": "Somali Fringed Basket",
+        "images": [
+          {
+            "link": "images/af1912-108-somali-fringed-basket-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1912-108"
+            }
+          },
+          {
+            "link": "images/af1912-108-somali-fringed-basket-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1912-108"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1912-108",
+          "general": "A Somali fringed basket with lid, plaited from leaf and covered with red cotton cloth sewn with glass beads and cowrie shells. The British Museum records it as Af1912,-.108, made in 1912 or soon before, and notes that the register described it as a basket ornamented with beads and cowries made in Zeila and Djibouti only, Somali.",
+          "dispute": "Donated to the British Museum in 1912 by Capt. A. W. F. Fuller. As an early 20th-century Somali basket acquired through colonial-era collecting networks around Zeila and Djibouti, it is part of broader debates about the interpretation, provenance, and accessibility of Somali craft heritage held in European museums."
+        },
+        "coordinates": {
+          "latitude": 11.3547,
+          "longitude": 43.4739
+        }
+      },
+      {
+        "name": "Baraawe Somali Trade Beads",
+        "image": {
+          "link": "images/af1979-01-5202-baraawe-trade-beads.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1979-01-5202"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1979-01-5202",
+          "general": "A series of bead samples associated with Somalia, made of glass and shell and recorded by the British Museum as Af1979,01.5202. The collection includes trade beads and samples from several named Somali sites, with notes comparing some examples to beads found further south in Africa and in the Malay Peninsula.",
+          "dispute": "Although the museum record is uncertain about some provenances, bead collections such as this reflect Somalia's long Indian Ocean trade connections, including coastal towns such as Baraawe. Their presence in a European museum raises questions about how archaeological and trade materials from Somali sites are documented, interpreted, and made accessible to Somali communities."
+        },
+        "coordinates": {
+          "latitude": 1.1128,
+          "longitude": 44.0314
+        }
+      },
+      {
+        "name": "Somali Bell Ear-rings",
+        "image": {
+          "link": "images/af1928-0509-68-a-b-ear-rings.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-68-a-b"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-68-a-b",
+          "general": "A pair of Somali ear-rings made of silver and possibly brass, each formed from a metal piece with a loop at one end and small bells hanging near the loop and from the end of the earring. Made in Somalia circa 1875-1923, registration Af1928,0509.68.a-b; the two earrings measure about 9.4 cm and 10.5 cm high.",
+          "dispute": "Purchased by the British Museum in 1928 from Lt-Col P. E. Allden as part of the Af1928,0509 collection formed in British Somaliland. Somali jewellery from this colonial-era acquisition is part of wider debates about provenance, community interpretation, and whether cultural heritage from regions such as Sanaag and Bari should remain in London."
+        },
+        "coordinates": {
+          "latitude": 10.7719,
+          "longitude": 49.0876
+        }
+      },
+      {
+        "name": "Somali Shield",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/2/24/Shield-Somalia_%28British_Museum%29.jpg",
+          "license": "CC BY-SA 4.0",
+          "attribution": {
+            "name": "geni",
+            "link": "https://commons.wikimedia.org/wiki/User:Geni"
+          }
+        },
+        "description": {
+          "source": "https://commons.wikimedia.org/wiki/File:Shield-Somalia_(British_Museum).jpg",
+          "general": "A Somali hide shield in the British Museum's African collections, representative of the defensive arms used by pastoral communities across the Horn of Africa.",
+          "dispute": "Like other Somali material in the British Museum, shields entered the collection during the colonial period; community-led projects such as Object Journeys have pressed for Somali voices in research, display, and decisions about restitution."
+        },
+        "coordinates": {
+          "latitude": 5.1521,
+          "longitude": 46.1996
+        }
+      },
+      {
+        "name": "Somali Butter-vessel",
+        "image": {
+          "link": "images/af1928-0509-62-butter-vessel.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-62"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-62",
+          "general": "A Somali butter-vessel (hano) of woven plant fibre and hide, decorated with cowrie shells in geometric bands and zigzag patterns, with a leather carrying strap, made between 1875 and 1923. Registration Af1928,0509.62; found at El Dere (Ceel Dheere); part of the 1928 Somali collection linked to BIOG201650.",
+          "dispute": "Collected in El Dere (Ceel Dheere) during the colonial period and acquired by the British Museum in 1928 from material associated with the Camel Corps and the Dervish wars; Somali communities argue such everyday craft objects were taken without consent and should be subject to restitution dialogue."
+        },
+        "coordinates": {
+          "latitude": 3.8488,
+          "longitude": 47.1806
+        }
+      },
+      {
+        "name": "Somali Robe and Tunic",
+        "image": {
+          "link": "images/af1928-0509-63-robe-tunic.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-63"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-63",
+          "general": "A Somali robe or tunic sewn from dik-dik skin, with pieces joined into a rough rectangle and leather fringe on each short side. Made in Somalia circa 1875-1923, it measures 276 cm high, 106 cm wide, and is held in the British Museum's Africa collection under registration Af1928,0509.63.",
+          "dispute": "Acquired in 1928 as part of the Af1928,0509 lot from British Somaliland; dress and textile items from this acquisition are contested as symbols of Somali identity removed during colonial military campaigns."
+        },
+        "coordinates": {
+          "latitude": 5.1521,
+          "longitude": 46.1996
+        }
+      },
+      {
+        "name": "Somali Cowrie-shell Trunk",
+        "image": {
+          "link": "images/af1928-0509-80-trunk.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/Af1928-0509-80"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/Af1928-0509-80",
+          "general": "A rectangular Somali storage trunk covered entirely in cowrie-shell ornament, made between 1875 and 1923. Registration Af1928,0509.80; found at El Dere (Ceel Dheere), Galguduud, Somalia.",
+          "dispute": "Taken from El Dere during the colonial era and purchased for the museum in 1928; such decorated trunks held household and ceremonial goods, and their removal is part of wider demands for return of Somali material culture."
+        },
+        "coordinates": {
+          "latitude": 3.8488,
+          "longitude": 47.1806
+        }
+      },
+      {
+        "name": "Somali Rope",
+        "image": {
+          "link": "images/af1928-0509-81-rope.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/Af1928-0509-81"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/Af1928-0509-81",
+          "general": "A coil of braided natural-fibre rope from Somalia, dated 1875–1923. Registration Af1928,0509.81; found at El Dere (Ceel Dheere); part of the 1928 Somali collection associated with BIOG201650.",
+          "dispute": "Acquired by the British Museum in 1928 from British Somaliland; even utilitarian objects from the Af1928,0509 acquisition are documented as colonial-era removals from Somali communities."
+        },
+        "coordinates": {
+          "latitude": 3.8488,
+          "longitude": 47.1806
+        }
+      },
+      {
+        "name": "Somali Spear",
+        "image": {
+          "link": "images/af1928-0509-87-spear.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-87"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-87",
+          "general": "A Somali spear made of wood and iron, produced in Somalia circa 1875-1923. Registration Af1928,0509.87; it measures 136 cm high, 3.25 cm wide, and 1.25 cm deep and is held in the British Museum's Africa collection.",
+          "dispute": "Purchased by the British Museum in 1928 from Lt-Col P. E. Allden as part of the Af1928,0509 collection formed in British Somaliland. The wider acquisition is tied to colonial collecting from Somali communities and includes material associated with Sayyid Mohammed Abdullah Hassan and his followers, making weapons such as this part of the debate over Somali cultural heritage held abroad."
+        },
+        "coordinates": {
+          "latitude": 6.2,
+          "longitude": 45.4
+        }
+      },
+      {
+        "name": "Somali Arm-dagger",
+        "image": {
+          "link": "images/af1928-0509-48-arm-dagger.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-48"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-48",
+          "general": "A Somali arm-dagger made of iron, with a leaf-shaped metal blade sharpened on both edges, a dark centre line, a horn handle, and a metal pommel. Made in Somalia circa 1875-1923, it measures 34 cm high, 5 cm wide, and 1.4 cm deep; the British Museum notes that its associated sheath is numbered Af1928,0509.49.",
+          "dispute": "Purchased by the British Museum in 1928 from Lt-Col P. E. Allden as part of the Af1928,0509 British Somaliland collection. Because the wider group is tied to colonial collecting and material associated with Sayyid Mohammed Abdullah Hassan and his followers, Somali weapons and dress objects from this acquisition remain part of restitution and community-control debates."
+        },
+        "coordinates": {
+          "latitude": 7.4,
+          "longitude": 46.0
+        }
+      },
+      {
+        "name": "Somali Arrow",
+        "image": {
+          "link": "images/af1928-0509-53-b-arrow.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-53-b"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-53-b",
+          "general": "A Somali arrow made of wood and iron, produced in Somalia circa 1875-1923 and associated with Berbera in Somaliland. Registration Af1928,0509.53.b; the British Museum records its length as 45.5 cm and notes that it was found in Af1928,0509.52.",
+          "dispute": "Purchased by the British Museum in 1928 from Lt-Col P. E. Allden as part of the Af1928,0509 collection formed in British Somaliland. Weapons and hunting objects from this colonial-era acquisition are part of wider Somali heritage debates about provenance, interpretation, and whether such material should remain in London."
+        },
+        "coordinates": {
+          "latitude": 10.4396,
+          "longitude": 45.0143
+        }
+      },
+      {
+        "name": "Somali Arrows",
+        "image": {
+          "link": "images/af1928-0509-53-a-arrows.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-53-a?selectedImageId=1613234461"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-53-a?selectedImageId=1613234461",
+          "general": "A Somali arrow made of wood, iron, iron wire, and leaf, produced in Somalia circa 1875-1923 and associated with Berbera in Somaliland. Registration Af1928,0509.53.a; the British Museum records related arrows in the group with heights between 37 cm and 47 cm and notes that they were found in Af1928,0509.52.",
+          "dispute": "Purchased by the British Museum in 1928 from Lt-Col P. E. Allden as part of the Af1928,0509 collection formed in British Somaliland. Weapons and hunting objects from this colonial-era acquisition are part of wider Somali debates about provenance, interpretation, and whether heritage from regions such as Sanaag should remain in London."
+        },
+        "coordinates": {
+          "latitude": 10.785,
+          "longitude": 47.55
+        }
+      },
+      {
+        "name": "Ogaden Somali Leather Bag",
+        "images": [
+          {
+            "link": "images/af1935-1108-73-a-ogaden-bag-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-73-a"
+            }
+          },
+          {
+            "link": "images/af1935-1108-73-a-ogaden-bag-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-73-a"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-73-a",
+          "general": "A red leather bag with a rounded bottom, vertical sides, and a carrying strap across the top. The British Museum records it as made by Darod, Ogaden, and Somali makers, circa 1920-1935; registration Af1935,1108.73.a.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton after their 1934-1935 field expedition in Italian Somaliland. Ogaden and wider Somali cultural objects collected during colonial-era expeditions remain part of debates about provenance, interpretation, and community access to heritage held abroad."
+        },
+        "coordinates": {
+          "latitude": 7.3228,
+          "longitude": 45.8679
+        }
+      },
+      {
+        "name": "Ogaden Somali Gourd Vessel",
+        "images": [
+          {
+            "link": "images/af1935-1108-65-a-b-ogaden-gourd-vessel-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-65-a-b"
+            }
+          },
+          {
+            "link": "images/af1935-1108-65-a-b-ogaden-gourd-vessel-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-65-a-b"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-65-a-b",
+          "general": "A vessel with stopper and basket, made from a gourd with an open-work basket of wooden twigs and twisted fibre string. The British Museum records it as made by Darod, Ogaden, and Somali makers circa 1920-1935; registration Af1935,1108.65.a-b, collected at Mooti.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton. It belongs to Af1935,1108.1-336, a field collection of material from Italian Somaliland, the southern part of modern Somalia, acquired during their 1934-1935 expedition; everyday containers from this context remain part of debates about colonial-era collecting and Somali community access to heritage abroad."
+        },
+        "coordinates": {
+          "latitude": 5.1,
+          "longitude": 46.7
+        }
+      },
+      {
+        "name": "Gobuin Somali Gourd Vessel",
+        "images": [
+          {
+            "link": "images/af1935-1108-66-gobuin-gourd-vessel-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-66"
+            }
+          },
+          {
+            "link": "images/af1935-1108-66-gobuin-gourd-vessel-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-66"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-66",
+          "general": "A gourd vessel with lid and basket, decorated with cowrie shells and red glass beads and held inside a reed basket. The British Museum records it as made by Darod, Ogaden, Mohamed Zuber, and Somali makers circa 1920-1935; registration Af1935,1108.66, collected at Gobuin.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton. It belongs to Af1935,1108.1-336, a field collection of material from Italian Somaliland, the southern part of modern Somalia, acquired during their 1934-1935 expedition; decorated containers from this context remain part of debates about colonial-era collecting and Somali community access to heritage abroad."
+        },
+        "coordinates": {
+          "latitude": -0.088,
+          "longitude": 42.57
+        }
+      },
+      {
+        "name": "Ogaden Somali Eye-black Bottle",
+        "image": {
+          "link": "images/af1935-1108-312-ogaden-eye-black-bottle.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-312"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-312",
+          "general": "An eye-black bottle with stopper, carved from wood with a leather carrier. The British Museum records it as made by Darod, Ogaden, and Somali makers circa 1920-1935; the rectangular bottle has interlace carving on the front and back, lugs at the neck, and a pointed wooden stopper used to apply eye-black.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton after their 1934-1935 field expedition in Italian Somaliland. Ogaden and wider Somali personal objects collected during colonial-era expeditions remain part of debates about provenance, interpretation, and community access to heritage held abroad."
+        },
+        "coordinates": {
+          "latitude": 7.95,
+          "longitude": 46.65
+        }
+      },
+      {
+        "name": "Ogaden Somali Poisoned Arrows",
+        "images": [
+          {
+            "link": "images/af1935-1108-297-b-ogaden-poisoned-arrows-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-297-b"
+            }
+          },
+          {
+            "link": "images/af1935-1108-297-b-ogaden-poisoned-arrows-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-297-b"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-297-b",
+          "general": "A group of four poisoned arrows in the quiver Af1935,1108.297.a. The British Museum records them as made by Darod, Ogaden, and Somali makers circa 1920-1935; registration Af1935,1108.297.b.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton after their 1934-1935 field expedition in Italian Somaliland. Ogaden and wider Somali weapons collected during colonial-era expeditions remain part of debates about provenance, interpretation, and community access to heritage held abroad."
+        },
+        "coordinates": {
+          "latitude": 8.45,
+          "longitude": 45.85
+        }
+      },
+      {
+        "name": "Ogaden Somali Bow",
+        "image": {
+          "link": "images/af1933-1114-25-ogaden-bow.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1933-1114-25"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1933-1114-25",
+          "general": "A bow made of wood with a gut string. The British Museum records it as made by Ogaden, Darod, and Somali makers circa 1884-1904; registration Af1933,1114.25. It measures 157 cm high, 4.2 cm wide, and 9 cm deep.",
+          "dispute": "Donated to the British Museum in 1933 by Col. H. G. C. Swayne and Brig-Gen Sir Eric Swayne as part of Af1933,1114.1-93, a collection from British Somaliland. The register links the group to material collected during 1884-1897 and the 'Mad Mullah' campaign of 1899-1904, making weapons such as this part of debates about colonial military collecting and Somali heritage held abroad."
+        },
+        "coordinates": {
+          "latitude": 8.05,
+          "longitude": 45.45
+        }
+      },
+      {
+        "name": "Somaliland Smith's Anvil",
+        "image": {
+          "link": "images/af1935-0709-5-somaliland-anvil.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1935-0709-5"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-0709-5",
+          "general": "A smith's anvil made of iron, produced in historic Somaliland circa 1920-1934. Registration Af1935,0709.5; the British Museum records it as 8.5 cm long, 10 cm wide, and 10 cm deep, and notes that numbers 5 to 12 were tools used by the smith of the British Somaliland-Ethiopia boundary commission of 1934.",
+          "dispute": "Donated to the British Museum in 1935 by Alexander T. Curle, a member of the Somaliland-Ethiopia boundary commission of 1934. Tools collected during colonial boundary-making work are part of wider debates about how Somali material culture and colonial administrative objects should be interpreted and whether they should remain abroad."
+        },
+        "coordinates": {
+          "latitude": 9.6,
+          "longitude": 43.33
+        }
+      },
+      {
+        "name": "Ogaden Somali Cowrie-decorated Vessel",
+        "image": {
+          "link": "images/af1935-1108-330-ogaden-vessel.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-330"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-330",
+          "general": "An Ogaden Somali vessel or bottle in a leather carrier decorated with cowrie shells, registered by the British Museum as Af1935,1108.330. The collection entry identifies the maker attribution as Ogaden (?), linking the object to Somali material culture from the Ogaden region.",
+          "dispute": "Part of the Af1935,1108 field collection associated with Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton's 1934-1935 expedition in Italian Somaliland. Ogaden and wider Somali objects collected during colonial-era expeditions remain part of debates about provenance, interpretation, and community access to heritage held abroad."
+        },
+        "coordinates": {
+          "latitude": 7.65,
+          "longitude": 47.3
+        }
+      },
+      {
+        "name": "Ogaden Somali Wooden Stool",
+        "images": [
+          {
+            "link": "images/af1935-1108-26-stool-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-26"
+            }
+          },
+          {
+            "link": "images/af1935-1108-26-stool-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-26"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-26",
+          "general": "A wooden stool with a round seat and two rectangular pillar supports. The British Museum records it as made by Darod, Ogaden (?), Harti (?), and Somali makers circa 1920-1935; registration Af1935,1108.26, collected at Chisimaio.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton after their 1934-1935 field expedition in Italian Somaliland. Somali seating and household objects collected during colonial-era expeditions remain part of debates about provenance, interpretation, and community access to heritage held abroad."
+        },
+        "coordinates": {
+          "latitude": -0.3582,
+          "longitude": 42.5454
+        }
+      },
+      {
+        "name": "Ogaden Somali Sandals",
+        "images": [
+          {
+            "link": "images/af1935-1108-85-a-b-ogaden-sandals-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-85-a-b"
+            }
+          },
+          {
+            "link": "images/af1935-1108-85-a-b-ogaden-sandals-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-85-a-b"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-85-a-b",
+          "general": "A pair of Somali sandals sewn from hide, with leather soles, side flaps, a leather strap across the top of the foot, and another strap leading down between the toes. The British Museum records them as made by Darod, Ogaden, and Somali makers circa 1920-1935; registration Af1935,1108.85.a-b.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton after their 1934-1935 field expedition in Italian Somaliland. Ogaden and wider Somali dress objects collected during colonial-era expeditions remain part of debates about provenance, interpretation, and community access to heritage held abroad."
+        },
+        "coordinates": {
+          "latitude": 6.95,
+          "longitude": 46.15
+        }
+      },
+      {
+        "name": "Ogaden Somali Basket",
+        "images": [
+          {
+            "link": "images/af1935-1108-229-ogaden-basket-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-229"
+            }
+          },
+          {
+            "link": "images/af1935-1108-229-ogaden-basket-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-229"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-229",
+          "general": "A basket twined from vegetable fibre, made from a rectangle of twined basketry folded in half and sewn up the sides, with geometric patterns in brown and undyed fibre. The British Museum records it as made by Darod, Ogaden, and Somali makers circa 1920-1935; registration Af1935,1108.229.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton. It belongs to Af1935,1108.1-336, a field collection of material from Italian Somaliland, the southern part of modern Somalia, acquired during their expedition between March 1934 and April 1935; such objects remain part of debates about colonial-era collecting and Somali community access to heritage abroad."
+        },
+        "coordinates": {
+          "latitude": 2.3333,
+          "longitude": 42.2833
+        }
+      },
+      {
+        "name": "Ogaden Somali Aluminium Bracelet",
+        "images": [
+          {
+            "link": "images/af1935-1108-164-ogaden-bracelet-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-164?selectedImageId=1238482001"
+            }
+          },
+          {
+            "link": "images/af1935-1108-164-ogaden-bracelet-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-164?selectedImageId=1238482001"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-164?selectedImageId=1238482001",
+          "general": "A bracelet made from a piece of aluminium bent into a circle, with the outside stamped with dots and diagonal lines. The British Museum records it as made by Darod, Ogaden, and Somali makers circa 1920-1935; registration Af1935,1108.164.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton. It belongs to Af1935,1108.1-336, a field collection of material from Italian Somaliland, the southern part of modern Somalia, acquired during their 1934-1935 expedition; Somali jewellery from this context remains part of debates about colonial-era collecting and community access to heritage abroad."
+        },
+        "coordinates": {
+          "latitude": 2.6,
+          "longitude": 43.1
+        }
+      },
+      {
+        "name": "Mashan Guli Somali Charm Armlet",
+        "image": {
+          "link": "images/af1935-1108-174-mashan-guli-armlet.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-174"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-174",
+          "general": "A leather strap or armlet with two charm cases attached. The British Museum records it as made by Mashan Guli circa 1920-1935; registration Af1935,1108.174, measuring 5 cm high, 21 cm wide, and 1.2 cm deep.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton. It belongs to Af1935,1108.1-336, a field collection of material from Italian Somaliland, the southern part of modern Somalia, acquired during their 1934-1935 expedition; personal and protective objects from this context remain part of debates about colonial-era collecting and Somali community access to heritage abroad."
+        },
+        "coordinates": {
+          "latitude": 2.85,
+          "longitude": 44.2
+        }
+      },
+      {
+        "name": "Mashan Guli Somali Doll",
+        "images": [
+          {
+            "link": "images/af1935-1108-278-mashan-guli-doll-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-278?selectedImageId=1217986001"
+            }
+          },
+          {
+            "link": "images/af1935-1108-278-mashan-guli-doll-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-278?selectedImageId=1217986001"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-278?selectedImageId=1217986001",
+          "general": "A doll made from a length of corn-cob covered with clay to form a human-shaped figure, dressed in white and red printed cotton cloth. The British Museum records it as made by Mashan Guli circa 1920-1935; registration Af1935,1108.278.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton. It belongs to Af1935,1108.1-336, a field collection of material from Italian Somaliland, the southern part of modern Somalia, acquired during their 1934-1935 expedition; children's and domestic objects from this context remain part of debates about colonial-era collecting and Somali community access to heritage abroad."
+        },
+        "coordinates": {
+          "latitude": 2.15,
+          "longitude": 44.85
+        }
+      },
+      {
+        "name": "Rahanwein Somali Double Vessel",
+        "images": [
+          {
+            "link": "images/af1935-1108-329-a-b-rahanwein-vessel-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-329-a-b?selectedImageId=1210919001"
+            }
+          },
+          {
+            "link": "images/af1935-1108-329-a-b-rahanwein-vessel-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-329-a-b?selectedImageId=1210919001"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-329-a-b?selectedImageId=1210919001",
+          "general": "A Rahanwein Somali double vessel or container in the British Museum's Africa collection, registered as Af1935,1108.329.a-b. The object is shown as a carved wooden double container with two rounded compartments and separate openings.",
+          "dispute": "Part of the Af1935,1108 field collection associated with Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton's 1934-1935 expedition in Italian Somaliland, the southern part of modern Somalia. Rahanwein and wider southern Somali objects collected during colonial-era expeditions remain part of debates about provenance, interpretation, and community access to heritage held abroad."
+        },
+        "coordinates": {
+          "latitude": 3.1167,
+          "longitude": 43.65
+        }
+      },
+      {
+        "name": "Rahanwein Potter's Turntable",
+        "images": [
+          {
+            "link": "images/af1935-1108-36-a-rahanwein-potters-wheel-1.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-36-a"
+            }
+          },
+          {
+            "link": "images/af1935-1108-36-a-rahanwein-potters-wheel-2.png",
+            "license": "CC BY 4.0",
+            "attribution": {
+              "name": "British Museum",
+              "link": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-36-a"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1935-1108-36-a",
+          "general": "A potter's turntable carved from wood, made as a roughly circular piece with a circular hollow carved on the underside. The British Museum records it as made by Rahanwein, Elai, Helai, and Somali makers circa 1920-1935; registration Af1935,1108.36.a, with stand Af1935,1108.36.b.",
+          "dispute": "Donated to the British Museum in 1935 by Major P. H. G. Powell-Cotton and Miss Diana Powell-Cotton. It belongs to Af1935,1108.1-336, a field collection of material from Italian Somaliland, the southern part of modern Somalia, acquired during their 1934-1935 expedition; Rahanwein craft tools from this context remain part of debates about colonial-era collecting and Somali community access to heritage abroad."
+        },
+        "coordinates": {
+          "latitude": 0.4883,
+          "longitude": 42.7853
+        }
+      },
+      {
+        "name": "Somali Trunk (Mad Mullah)",
+        "image": {
+          "link": "images/af1928-0509-79-trunk-long.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-79"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-79",
+          "general": "An oblong basket-work trunk in two parts, covered with leather and decorated on the outer face with cowrie shells and leather thong tassels at the corners (c. 1875–1923; H. 66 cm, W. 100 cm). Made in Somalia; collected at El Dere (Eil Der) by Lt-Col P. E. Allden. Museum register: a camel trunk believed to have belonged to the Mad Mullah (Sayyid Mohammed Abdullah Hassan), captured from his transport column in February 1920.",
+          "dispute": "Purchased by the British Museum in 1928 as part of the Af1928,0509 Somali collection from Allden, including objects taken after military action against the Dervishes; Somali communities and researchers contest whether such politically symbolic baggage should remain in London."
+        },
+        "coordinates": {
+          "latitude": 3.8488,
+          "longitude": 47.1806
+        }
+      },
+      {
+        "name": "Somali Seal-impression (Mad Mullah)",
+        "image": {
+          "link": "images/af1928-0509-23-seal-impression.png",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "British Museum",
+            "link": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-23"
+          }
+        },
+        "description": {
+          "source": "https://www.britishmuseum.org/collection/object/E_Af1928-0509-23",
+          "general": "An early 20th-century wax seal-impression on paper from Somalia, associated with the Dervish movement led by Sayyid Mohammed Abdullah Hassan. Registration Af1928,0509.23.",
+          "dispute": "Acquired in 1928 after British campaigns against the Dervishes; the seal is a politically charged symbol of anti-colonial resistance, and its retention in London is contested by those who argue Somali national heritage should be held in Somalia."
+        },
+        "coordinates": {
+          "latitude": 5.1521,
+          "longitude": 46.1996
+        }
+      }
+    ]
+  },
+  {
+    "name": "Field Museum of Natural History",
+    "image": {
+      "link": "https://upload.wikimedia.org/wikipedia/commons/8/89/Field_Museum_N.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": {
+        "name": "Sea Cow",
+        "link": "https://commons.wikimedia.org/wiki/User:Sea_Cow"
+      }
+    },
+    "description": {
+      "source": "https://en.wikipedia.org/wiki/Field_Museum_of_Natural_History",
+      "general": "The Field Museum of Natural History (FMNH), also known as The Field Museum, is a natural history museum in Chicago, Illinois, and is one of the largest such museums in the world.",
+      "dispute": "The skins of the Tsavo Man-Eaters were aquired by the Field Museum in 1924 for a sum of $5,000. The skins arrived at the museum in very poor condition. The lions were reconstructed and are now on permanent display along with their skulls."
+    },
+    "coordinates": {
+      "latitude": 41.866111,
+      "longitude": -87.616944
+    },
+    "artifacts": [
+      {
+        "name": "Tsavo Man-Eaters",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lionsoftsavo2008.jpg",
+          "license": "CC BY-SA 3.0",
+          "attribution": {
+            "name": "Jeffrey Jung"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Tsavo_Man-Eaters#Museum_display",
+          "general": "The Tsavo Man-Eaters were a pair of man-eating male lions in the Tsavo region of Kenya, which were responsible for the deaths of many construction workers on the Kenya-Uganda Railway between March and December 1898. Today, the Tsavo Man-Eaters are some of the most widely studied man-eating pantherine cats given their behavior of hunting humans as a pair as well as dental injuries reported in one of the lions, a cause commonly attributed to big cats turning to humans as prey.",
+          "dispute": "The government of Kenya demanded the return of the Tsavo Man-Eaters as 'first resistance' against colonial rule in 2021."
+        },
+        "coordinates": {
+          "latitude": 1,
+          "longitude": 38
+        }
+      }
+    ]
+  },
+  {
+    "name": "Neues Museum",
+    "image": {
+      "link": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Neues_Museum_-_Joy_of_Museums.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": {
+        "name": "Joyofmuseums",
+        "link": "https://joyofmuseums.com/"
+      }
+    },
+    "description": {
+      "source": "https://en.wikipedia.org/wiki/Neues_Museum",
+      "general": "The Neues Museum (New Museum) is a museum on the Museum Island in the historic centre of Berlin. Built from 1843 to 1855 by order of King Frederick William IV of Prussia in Neoclassical and Renaissance Revival styles, it is considered as the major work of Friedrich August Stüler.",
+      "dispute": "The Neferti Bust is one of its most diputed artifacts. It has become a cultural symbol of Berlin as well as ancient Egypt and the subject of an intense argument between Egypt and Germany over Egyptian demands for its repatriation."
+    },
+    "coordinates": {
+      "latitude": 52.520556,
+      "longitude": 13.397778
+    },
+    "artifacts": [
+      {
+        "name": "Nefertiti Bust",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Nofretete_Neues_Museum-edit.jpg",
+          "license": "CC BY-SA 3.0",
+          "attribution": {
+            "name": "Philip Pikart"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Nefertiti_Bust",
+          "general": "The Nefertiti Bust is a painted stucco-coated limestone bust of Nefertiti, the Great Royal Wife of Egyptian pharaoh Akhenaten.",
+          "dispute": "It has also been the subject of an intense argument between Egypt and Germany over Egyptian demands for its repatriation, which began in 1924, once the bust was first displayed to the public. There have been many requests to return the bust to Egypt over the years, but these have been rejected by Germany."
+        },
+        "coordinates": {
+          "latitude": 27.645278,
+          "longitude": 30.896389
+        }
+      }
+    ]
+  },
+  {
+    "name": "Pushkin Museum",
+    "image": {
+      "link": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gmii.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": {
+        "name": "Ghirlandajo",
+        "link": "https://commons.wikimedia.org/wiki/User:Ghirlandajo"
+      }
+    },
+    "description": {
+      "source": "https://en.wikipedia.org/wiki/Pushkin_Museum",
+      "general": "The Pushkin State Museum of Fine Arts is the largest museum of European art in Moscow.",
+      "dispute": "Many of the Priam's Treasure's disputed artifacts are currently in its collection. They were originally smuggled by Heinrich Schliemann from Hisarlik, Turkey. Many of these artifacts were aquired in 1881 by the Royal Museums of Berlin and taken by the Red Army during the Battle of Berlin. The artefacts were then flown to Moscow, where they currently are located."
+    },
+    "coordinates": {
+      "latitude": 55.747222,
+      "longitude": 37.605
+    },
+    "artifacts": [
+      {
+        "name": "Dieskau gold hoard",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Montelius_Dieskau.png",
+          "license": "Public Domain",
+          "attribution": {
+            "name": "Oscar Montelius"
+          }
+        },
+        "description": {
+          "source": "https://de.wikipedia.org/wiki/Depot_I_von_Dieskau",
+          "general": "The Dieskau gold hoard is probably a depot find of the Early Bronze Age Aunjetitz Culture from Dieskau, Germany. According to Curt von Bülow, the hoard originally consisted of 13 objects with a total weight of four Prussian pounds (1868 g). It is thus the largest known gold hoard of the Middle German Early Bronze Age.",
+          "dispute": "Since 1945, the five surviving pieces have been in the Pushkin Museum in Moscow as looted art."
+        },
+        "coordinates": {
+          "latitude": 51.441222,
+          "longitude": 12.044361
+        }
+      },
+      {
+        "name": "Eberswalde Hoard",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Eberswalde-Messingwerk-Siedlung-Vitrine.jpg",
+          "license": "CC BY 4.0",
+          "attribution": {
+            "name": "Bildarbeiter",
+            "link": "https://commons.wikimedia.org/wiki/User:Bildarbeiter"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Eberswalde_Hoard",
+          "general": "The Eberswalde Hoard is a Bronze Age hoard of 81 gold objects with a total weight of 2.59 kg. The largest prehistoric assembly of gold objects ever found in Germany, it is considered to be one of the most important finds from the Central European Bronze Age.",
+          "dispute": "After the end of the Second World War in 1945, the Eberswalde Hoard disappeared from the Berlin museum. The suspicion that the Red Army might have removed both finds was denied by the Soviets for decades. In 2004, a reporter from German magazine Der Spiegel located it in a secret depot within Moscow's Pushkin Museum. Germany has requested return of the materials, and the issue has caused tension between the German and Russian governments."
+        },
+        "coordinates": {
+          "latitude": 52.846111,
+          "longitude": 13.723056
+        }
+      },
+      {
+        "name": "Gutenstein sword scabbard",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/d/df/Wolfskrieger_2.jpg",
+          "license": "CC BY-SA 2.0",
+          "attribution": {
+            "name": "Schristian Bickel"
+          }
+        },
+        "description": {
+          "source": "https://de.wikipedia.org/wiki/Schwertscheide_von_Gutenstein",
+          "general": "The Gutenstein sword scabbard is a magnificently decorated sword scabbard of a spatha from the 7th century, which was found in the grave of an Alamannic warrior. The special feature of this sword scabbard are the rare for the 7th century depictions of animal warriors or people with animal masks, which has few parallels in Europe.",
+          "dispute": "In 1945, the trophy commission of the Red Army confiscated the Gutenstein sword scabbard. Since then, it has been stored in the Pushkin Museum in Moscow as a cultural object lost during the war or as looted art. The actual whereabouts of the sword scabbard were uncertain for many years, as no information was received from Moscow."
+        },
+        "coordinates": {
+          "latitude": 48.078333,
+          "longitude": 9.115556
+        }
+      },
+      {
+        "name": "Priam's Treasure",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/7/73/Priam%27s_treasure.jpg",
+          "license": "Public Domain",
+          "attribution": {
+            "name": "Unknown"
+          }
+        },
+        "description": {
+          "source": "https://en.wikipedia.org/wiki/Priam's_Treasure",
+          "general": "Priam's Treasure is a cache of gold and other artifacts discovered by classical archaeologists Frank Calvert and Heinrich Schliemann at Hissarlik, on the northwestern coast of modern Turkey. The majority of the artifacts are currently in the Pushkin Museum in Moscow.",
+          "dispute": "Apparently, Schliemann smuggled Priam's Treasure out of Anatolia. The Ottoman government revoked Schliemann's permission to dig and sued him for its share of the gold. Later Schliemann traded some treasure to the government of the Ottoman Empire in exchange for permission to dig at Troy again."
+        },
+        "coordinates": {
+          "latitude": 39.957,
+          "longitude": 26.239
+        }
+      }
+    ]
+  },
+  {
+    "name": "Metropolitan Museum of Art",
+    "image": {
+      "link": "https://upload.wikimedia.org/wikipedia/commons/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg",
+      "license": "CC BY-SA 2.0",
+      "attribution": {
+        "name": "Jean-Christophe BENOIST",
+        "link": "https://commons.wikimedia.org/wiki/User:Jcb"
+      }
+    },
+    "description": {
+      "source": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+      "general": "The Metropolitan Museum of Art in New York City is one of the world's largest art museums, with extensive holdings of African art in The Michael C. Rockefeller Wing.",
+      "dispute": "The Met's African collections include many objects acquired during the colonial era; communities of origin continue to debate provenance, display, and repatriation of culturally significant pieces."
+    },
+    "coordinates": {
+      "latitude": 40.779444,
+      "longitude": -73.963056
+    },
+    "artifacts": [
+      {
+        "name": "Somali Headrest",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brooklyn_Museum_1996.204.1_Headrest.jpg",
+          "license": "CC BY 3.0",
+          "attribution": {
+            "name": "Brooklyn Museum",
+            "link": "https://www.brooklynmuseum.org"
+          }
+        },
+        "description": {
+          "source": "https://www.metmuseum.org/art/collection/search/312203",
+          "general": "A 19th–20th century wooden Somali headrest (barkin) with a crescent platform and twin columns, carved from a single piece of hagar wood. Somali nomads used headrests while resting and guarding herds; men's versions often have unstable bases as a symbol of vigilance.",
+          "dispute": "The headrest entered the Met via the Rockefeller collection; like other Somali seating and sleep furniture in Western museums, its removal from everyday and ceremonial life in the Horn of Africa is part of broader debates over colonial collecting and the return of cultural property."
+        },
+        "coordinates": {
+          "latitude": 5.1521,
+          "longitude": 46.1996
+        }
+      }
+    ]
+  },
+  {
+    "name": "Brooklyn Museum",
+    "image": {
+      "link": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brooklyn_Museum_Facade.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": {
+        "name": "Beyond My Ken"
+      }
+    },
+    "description": {
+      "source": "https://en.wikipedia.org/wiki/Brooklyn_Museum",
+      "general": "The Brooklyn Museum is an art museum in New York City with significant collections of African and contemporary design, including Somali material culture and Ethiopian-American furniture.",
+      "dispute": "Objects from Somalia and Ethiopia in U.S. museums are increasingly discussed in terms of colonial-era acquisition, diaspora representation, and whether ceremonial furniture should be held abroad or returned to communities of origin."
+    },
+    "coordinates": {
+      "latitude": 40.671111,
+      "longitude": -73.963889
+    },
+    "artifacts": [
+      {
+        "name": "Somali Headrest (Barkin)",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brooklyn_Museum_1996.204.1_Headrest.jpg",
+          "license": "CC BY 3.0",
+          "attribution": {
+            "name": "Brooklyn Museum",
+            "link": "https://www.brooklynmuseum.org/opencollection/objects/127045"
+          }
+        },
+        "description": {
+          "source": "https://www.brooklynmuseum.org/opencollection/objects/127045",
+          "general": "A 20th-century Somali wooden headrest (barkin) in the Brooklyn Museum's African collection, used by nomadic Somali peoples for sleep and hair protection while herding.",
+          "dispute": "Headrests like this were collected as ethnographic specimens during the colonial period; Somali communities and museums in the diaspora argue that such everyday sacred objects belong in Somali hands for education and cultural continuity."
+        },
+        "coordinates": {
+          "latitude": 5.1521,
+          "longitude": 46.1996
+        }
+      },
+      {
+        "name": "Jimma Chair",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/4/40/Stool%2C_Hamar_Tribe%2C_Ethiopia_%2822028242848%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "attribution": {
+            "name": "Rod Waddington",
+            "link": "https://www.flickr.com/photos/rod_waddington/"
+          }
+        },
+        "description": {
+          "source": "https://www.brooklynmuseum.org/objects/226384",
+          "general": "A 2024 Jimma Chair by Ethiopian-American designer Jomo Tariku, acquired by the Brooklyn Museum. The form reinterprets the high-backed monoxylous thrones of the Kingdom of Jimma in southwestern Ethiopia, historically symbols of royal authority among Oromo communities.",
+          "dispute": "While this piece is a contemporary commission, historic Jimma and Gurage throne chairs were looted or sold during colonial and post-colonial upheaval and now appear in private and Western collections; Ethiopians continue to seek return of ceremonial seating taken from the region."
+        },
+        "coordinates": {
+          "latitude": 7.6667,
+          "longitude": 36.8333
+        }
+      }
+    ]
+  },
+  {
+    "name": "High Museum of Art",
+    "image": {
+      "link": "https://upload.wikimedia.org/wikipedia/commons/0/06/High_Museum_of_Art%2C_Meier_Building.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": {
+        "name": "Jarek Tuszyński",
+        "link": "https://commons.wikimedia.org/wiki/User:Jarekt"
+      }
+    },
+    "description": {
+      "source": "https://en.wikipedia.org/wiki/High_Museum_of_Art",
+      "general": "The High Museum of Art in Atlanta, Georgia, holds a collection of African art including twentieth-century Ethiopian stools and chairs.",
+      "dispute": "Ethiopian wooden seating in American museums is part of wider Horn of Africa repatriation debates, especially where objects left the country during war, famine, or antiquities trafficking without community consent."
+    },
+    "coordinates": {
+      "latitude": 33.790056,
+      "longitude": -84.385611
+    },
+    "artifacts": [
+      {
+        "name": "Ethiopian Three-legged Stool",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Stool%2C_Mursi_Tribe%2C_Mago%2C_Ethiopia_%2815309281293%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "attribution": {
+            "name": "Rod Waddington",
+            "link": "https://www.flickr.com/photos/rod_waddington/"
+          }
+        },
+        "description": {
+          "source": "https://high.org/collection/three-legged-stool/",
+          "general": "A twentieth-century Ethiopian three-legged wooden stool in the High Museum's African art collection (accession 2008.267), typical of low seating used across southern Ethiopia.",
+          "dispute": "Stools and chairs from Ethiopia are sought by collectors abroad; Ethiopian heritage advocates argue that ceremonial and domestic seating removed during periods of conflict should be documented and, where appropriate, repatriated."
+        },
+        "coordinates": {
+          "latitude": 6.0,
+          "longitude": 36.0
+        }
+      },
+      {
+        "name": "Ethiopian Chair",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hamar_Stool%2C_Demeka%2C_Ethiopia_%2819227818862%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "attribution": {
+            "name": "Rod Waddington",
+            "link": "https://www.flickr.com/photos/rod_waddington/"
+          }
+        },
+        "description": {
+          "source": "https://high.org/collection/chair-2/",
+          "general": "A twentieth-century Ethiopian wooden chair in the High Museum (accession 2008.268), reflecting the carved high-backed and tripod-legged chair traditions of peoples such as the Jimma, Wolaita, and Gurage.",
+          "dispute": "High-backed Ethiopian chairs served as thrones and symbols of rank; pieces in Western museums are increasingly linked to calls for restitution of objects acquired without the consent of Ethiopian communities or the state."
+        },
+        "coordinates": {
+          "latitude": 9.145,
+          "longitude": 40.4897
+        }
+      }
+    ]
+  },
+  {
+    "name": "National Museum of African American History and Culture",
+    "image": {
+      "link": "https://upload.wikimedia.org/wikipedia/commons/d/db/National_Museum_of_African_American_History_and_Culture_in_February_2020.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": {
+        "name": "AgnosticPreachersKid",
+        "link": "https://commons.wikimedia.org/wiki/User:AgnosticPreachersKid"
+      }
+    },
+    "description": {
+      "source": "https://en.wikipedia.org/wiki/National_Museum_of_African_American_History_and_Culture",
+      "general": "The National Museum of African American History and Culture (NMAAHC) is a Smithsonian museum in Washington, D.C., documenting African American life, history, and culture.",
+      "dispute": "The museum also holds works by African and African-diaspora designers that connect to ongoing debates about whether ceremonial objects from the continent should remain abroad or be returned to communities of origin."
+    },
+    "coordinates": {
+      "latitude": 38.891111,
+      "longitude": -77.0325
+    },
+    "artifacts": [
+      {
+        "name": "MeQuamya Chair",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/4/40/Stool%2C_Hamar_Tribe%2C_Ethiopia_%2822028242848%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "attribution": {
+            "name": "Rod Waddington",
+            "link": "https://www.flickr.com/photos/rod_waddington/"
+          }
+        },
+        "description": {
+          "source": "https://nmaahc.si.edu/object/nmaahc_2023.64.1",
+          "general": "The MeQuamya Chair (2022) by Ethiopian-American designer Jomo Tariku, in American walnut with a T-shaped backrest inspired by the Ethiopian Coptic Church prayer staff and a reuleaux triangular seat on three legs.",
+          "dispute": "The chair celebrates Ethiopian design in the diaspora while historic Jimma and related throne chairs remain scattered in Western collections; Ethiopian voices increasingly link contemporary recognition abroad to demands for return of colonial-era seating."
+        },
+        "coordinates": {
+          "latitude": 9.145,
+          "longitude": 40.4897
+        }
+      }
+    ]
+  },
+  {
+    "name": "Victoria and Albert Museum",
+    "image": {
+      "link": "https://upload.wikimedia.org/wikipedia/commons/8/84/At_Victoria_and_Albert_Museum_2024_001.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": {
+        "name": "David Iliff",
+        "link": "https://commons.wikimedia.org/wiki/User:Diliff"
+      }
+    },
+    "description": {
+      "source": "https://en.wikipedia.org/wiki/Victoria_and_Albert_Museum",
+      "general": "The Victoria and Albert Museum in London is the world's largest museum of applied arts, decorative arts, and design, with holdings from across Africa including the Horn of Africa.",
+      "dispute": "Somali and Ethiopian metalwork, textiles, and furniture in the V&A, like objects at the British Museum, are contested because many entered Britain during the colonial partition of the Somali regions and the Italian and British occupation of Ethiopia."
+    },
+    "coordinates": {
+      "latitude": 51.496667,
+      "longitude": -0.172222
+    },
+    "artifacts": [
+      {
+        "name": "Somali Silver Necklace",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Necklace%2C_Somali_people%2C_Somalia%2C_1800s%2C_silver%2C_fiber_cord_-_National_Museum_of_Natural_History%2C_United_States_-_DSC00484.jpg",
+          "license": "CC BY-SA 4.0",
+          "attribution": {
+            "name": "Daderot",
+            "link": "https://commons.wikimedia.org/wiki/User:Daderot"
+          }
+        },
+        "description": {
+          "source": "https://collections.vam.ac.uk/item/O165058/necklace-unknown/",
+          "general": "A 19th-century Somali silver necklace with amber and carnelian beads in the V&A, comparable to dowry jewellery worn with crescent breast ornaments (sansaaro) across the Horn of Africa.",
+          "dispute": "Somali jewellery in British museums is tied to colonial military campaigns and trade; diaspora researchers argue these pieces should be accessible to Somali communities for study and, where provenance is violent, considered for restitution."
+        },
+        "coordinates": {
+          "latitude": 5.1521,
+          "longitude": 46.1996
+        }
+      }
+    ]
+  },
+  {
+    "name": "National Museum of African Art",
+    "image": {
+      "link": "https://upload.wikimedia.org/wikipedia/commons/e/e5/National_Museum_of_African_Art_DC_2007_003.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": {
+        "name": "AgnosticPreachersKid"
+      }
+    },
+    "description": {
+      "source": "https://en.wikipedia.org/wiki/National_Museum_of_African_Art",
+      "general": "The National Museum of African Art is the Smithsonian's African art museum in Washington, D.C., with extensive holdings from across the continent.",
+      "dispute": "The museum's Ethiopian and Somali-related collections reflect decades of acquisition during colonialism and Cold War-era field collecting; source communities increasingly request transparency and repatriation."
+    },
+    "coordinates": {
+      "latitude": 38.887778,
+      "longitude": -77.022222
+    },
+    "artifacts": [
+      {
+        "name": "Ethiopian High-back Stool",
+        "image": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Stool%2C_Mursi_Tribe%2C_Mago%2C_Ethiopia_%2815309281293%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "attribution": {
+            "name": "Rod Waddington",
+            "link": "https://www.flickr.com/photos/rod_waddington/"
+          }
+        },
+        "description": {
+          "source": "https://africa.si.edu/collection/object/nmafa_89-10-1",
+          "general": "A high-back wooden stool from Ethiopia in the National Museum of African Art (accession 89-10-1), part of a tradition of carved seating used as markers of status among southern Ethiopian peoples.",
+          "dispute": "Ethiopian stools and throne chairs in the Smithsonian and other U.S. institutions are cited in broader African restitution campaigns, including Ethiopian government and civil society calls for return of looted heritage."
+        },
+        "coordinates": {
+          "latitude": 7.6667,
+          "longitude": 36.8333
+        }
+      },
+      {
+        "name": "Turkana Camel Bell",
+        "images": [
+          {
+            "link": "images/nmafa-72-16-7-camel-bell-1.png",
+            "license": "Usage conditions apply",
+            "attribution": {
+              "name": "Smithsonian National Museum of African Art",
+              "link": "https://www.si.edu/object/camel-bell:nmafa_72-16-7"
+            }
+          },
+          {
+            "link": "images/nmafa-72-16-7-camel-bell-2.png",
+            "license": "Usage conditions apply",
+            "attribution": {
+              "name": "Smithsonian National Museum of African Art",
+              "link": "https://www.si.edu/object/camel-bell:nmafa_72-16-7"
+            }
+          }
+        ],
+        "description": {
+          "source": "https://www.si.edu/object/camel-bell:nmafa_72-16-7",
+          "general": "A mid-20th-century camel bell made of wood and leather by a Turkana artist. The Smithsonian describes it as a flat oval wooden bell with an eroded surface, a cut in the lower curve, and two cylindrical wooden clappers suspended from a leather cord.",
+          "dispute": "Gifted to the Smithsonian National Museum of African Art by Mr. and Mrs. Harold D. Snell, the bell is linked to pastoral life in Kenya and the wider Horn/East African camel-herding world. The Smithsonian notes that large wooden camel bells in the museum's collection are attributed to herdsmen in Somalia, Ethiopia, and northern Kenya, raising broader questions about how pastoral heritage is collected, interpreted, and displayed in museums abroad."
+        },
+        "coordinates": {
+          "latitude": 3.1167,
+          "longitude": 35.6
+        }
+      },
+      {
+        "name": "Mogadishu Amulet Necklace",
+        "image": {
+          "link": "images/nmafa-76-16-1-mogadishu-amulet-necklace.png",
+          "license": "Usage conditions apply",
+          "attribution": {
+            "name": "Smithsonian National Museum of African Art",
+            "link": "https://africa.si.edu/collection/object/nmafa_76-16-1"
+          }
+        },
+        "description": {
+          "source": "https://africa.si.edu/collection/object/nmafa_76-16-1",
+          "general": "A mid-20th-century necklace with amulet case from Mogadishu, Somalia, made by a Somali Hawiye or Digil clan artist. The Smithsonian describes it as a rectangular silver alloy amulet case with three bosses, twelve crotals on chains, and twelve yellow synthetic amber beads strung on plant fiber.",
+          "dispute": "Acquired in Mogadishu by Ambassador and Mrs. John Loughran between 1975 and 1976 and later gifted to the Smithsonian National Museum of African Art. As a protective hersi amulet necklace from Mogadishu, it raises questions about how Somali religious, protective, and clan-linked jewellery is collected, interpreted, and made accessible outside Somalia."
+        },
+        "coordinates": {
+          "latitude": 2.0469,
+          "longitude": 45.3182
+        }
+      },
+      {
+        "name": "Hawiye or Digil Water Bottle",
+        "image": {
+          "link": "images/nmafa-72-8-4-hawiye-digil-water-bottle.png",
+          "license": "Usage conditions apply",
+          "attribution": {
+            "name": "Smithsonian National Museum of African Art",
+            "link": "https://africa.si.edu/collection/object/nmafa_72-8-4"
+          }
+        },
+        "description": {
+          "source": "https://africa.si.edu/collection/object/nmafa_72-8-4",
+          "general": "An early-late 20th-century Somali water bottle made by a Hawiye or Digil clan artist. The Smithsonian describes it as a wooden stoppered bottle with incised interlace and linear patterns on the rim and shoulder, plus a leather thong around the neck; its Somali use is connected to weyso, washing before prayer.",
+          "dispute": "Gifted to the Smithsonian National Museum of African Art by Mr. and Mrs. Richard Jackson in 1972. As a religious and everyday water vessel associated with Hawiye or Digil Somali makers, it raises questions about how Somali ritual, domestic, and clan-linked objects are collected, interpreted, and made accessible outside Somalia."
+        },
+        "coordinates": {
+          "latitude": 2.15,
+          "longitude": 44.95
+        }
+      },
+      {
+        "name": "Mogadishu Rosewater Bottle",
+        "image": {
+          "link": "images/nmafa-76-16-12-mogadishu-rosewater-bottle.png",
+          "license": "Usage conditions apply",
+          "attribution": {
+            "name": "Smithsonian National Museum of African Art",
+            "link": "https://africa.si.edu/collection/object/nmafa_76-16-12"
+          }
+        },
+        "description": {
+          "source": "https://africa.si.edu/collection/object/nmafa_76-16-12",
+          "general": "A mid-20th-century rosewater bottle from Mogadishu, Somalia, made by a Somali Hawiye or Digil clan artist. The Smithsonian describes it as a clear blown-glass bottle with a teardrop shape on a stem, circular foot, and a silver alloy cylindrical cap with hanging crotals.",
+          "dispute": "Acquired in Mogadishu by Ambassador and Mrs. John Loughran between 1975 and 1976 and later gifted to the Smithsonian National Museum of African Art. Because rosewater is used in ritual washing before Islamic prayers, this object raises questions about how Somali religious and household objects are collected, interpreted, and made accessible outside Somalia."
+        },
+        "coordinates": {
+          "latitude": 2.0469,
+          "longitude": 45.3182
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rautenstrauch-Joest-Museum",
+    "image": {
+      "link": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kulturquartier_K%C3%B6ln_-_Rautenstrauch-Joest-Museum_-_Vorderseite-3506.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": {
+        "name": "Raimond Spekking",
+        "link": "https://commons.wikimedia.org/wiki/File:Kulturquartier_K%C3%B6ln_-_Rautenstrauch-Joest-Museum_-_Vorderseite-3506.jpg"
+      }
+    },
+    "description": {
+      "source": "https://ccc.deutsche-digitale-bibliothek.de/en/institution/QNFV4MB33MKS7OSOTNYOQBU7GBHWSNNH",
+      "general": "The Rautenstrauch-Joest-Museum - Kulturen der Welt is an ethnographic museum in Cologne, Germany, holding collections from Africa, Asia, Oceania, and the Americas.",
+      "dispute": "Its holdings include objects documented by the Collections from Colonial Contexts portal, where provenance, colonial collecting routes, and community knowledge are central to current research and public interpretation."
+    },
+    "coordinates": {
+      "latitude": 50.935339,
+      "longitude": 6.950542
+    },
+    "artifacts": [
+      {
+        "name": "Somali Breast Jewellery",
+        "image": {
+          "link": "images/rjm-9134-somali-breast-jewellery.png",
+          "license": "CC BY-NC-ND 4.0",
+          "attribution": {
+            "name": "Rautenstrauch-Joest-Museum",
+            "link": "https://ccc.deutsche-digitale-bibliothek.de/en/item/CIUQKAGFYLFZFIPVY2A34KKSEYZXOWIB"
+          }
+        },
+        "description": {
+          "source": "https://ccc.deutsche-digitale-bibliothek.de/en/item/CIUQKAGFYLFZFIPVY2A34KKSEYZXOWIB",
+          "general": "A Somali breast jewellery object in copper alloy and silver alloy, held by the Rautenstrauch-Joest-Museum. The Collections from Colonial Contexts record lists inventory number RJM 9134, dimensions 482 x 213 x 22 mm, and cultural attribution Somali.",
+          "dispute": "The provenance record states that Wilhelm Joest purchased the object in Aden in 1884; it later passed through his estate, was donated in Cologne in 1899, and was transferred to the Rautenstrauch-Joest-Museum in 1901. Its documented colonial-era collecting route through Aden and Cologne makes it part of wider debates about Somali heritage held in European museums."
+        },
+        "coordinates": {
+          "latitude": 5.1521,
+          "longitude": 46.1996
+        }
+      }
+    ]
+  }
+]
