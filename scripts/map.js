@@ -44,6 +44,40 @@ var blackIcon = new L.Icon({
   shadowSize: [41, 41],
 });
 
+const artifactPositionCounts = {};
+
+function getAdjustedCoordinates(latitude, longitude) {
+  const key = `${latitude},${longitude}`;
+  const count = artifactPositionCounts[key] || 0;
+  artifactPositionCounts[key] = count + 1;
+
+  if (count === 0) {
+    return { latitude, longitude };
+  }
+
+  const offset = 0.00075 * count;
+  return {
+    latitude: latitude + offset,
+    longitude: longitude + offset,
+  };
+}
+
+function getDisplayCoordinates(item) {
+  if (item._displayCoordinates) {
+    return item._displayCoordinates;
+  }
+
+  if (item.hasOwnProperty("artifacts")) {
+    return item.coordinates;
+  }
+
+  item._displayCoordinates = getAdjustedCoordinates(
+    item.coordinates.latitude,
+    item.coordinates.longitude,
+  );
+  return item._displayCoordinates;
+}
+
 function buildImageGallery(item, borderColor) {
   const images = item.images || [item.image];
   const galleryId = item.name.toLowerCase().replace(/[^a-z0-9]+/g, "-");
@@ -113,7 +147,8 @@ export function createMarkerAndPopup(item, museum) {
     attributionLink = `${primaryImage.attribution.name}`;
   }
 
-  L.marker([item.coordinates.latitude, item.coordinates.longitude], {
+  const displayCoordinates = getDisplayCoordinates(item);
+  L.marker([displayCoordinates.latitude, displayCoordinates.longitude], {
     icon: iconColor,
     alt: item.name,
     title: item.name,
@@ -121,6 +156,15 @@ export function createMarkerAndPopup(item, museum) {
     .addEventListener("click", () => {
       if (item.hasOwnProperty("artifacts")) {
         item.artifacts.forEach((artifact) => {
+          if (artifact._created) {
+            return;
+          }
+          const artifactCoordinates = getAdjustedCoordinates(
+            artifact.coordinates.latitude,
+            artifact.coordinates.longitude,
+          );
+          artifact._displayCoordinates = artifactCoordinates;
+          artifact._created = true;
           createMarkerAndPopup(artifact, item);
           new L.Geodesic(
             [

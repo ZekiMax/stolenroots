@@ -38,25 +38,7 @@
           "longitude": 151.21
         }
       },
-      {
-        "name": "Benin Bronzes",
-        "image": {
-          "link": "https://upload.wikimedia.org/wikipedia/commons/7/73/Benin_brass_plaque_03_%28cropped%29.jpg",
-          "license": "CC BY-SA 3.0",
-          "attribution": {
-            "name": "Michel wal"
-          }
-        },
-        "description": {
-          "source": "https://en.wikipedia.org/wiki/Benin_Bronzes",
-          "general": "The Benin Bronzes are a group of several thousand metal plaques and sculptures that decorated the royal palace of the Kingdom of Benin. Collectively, the objects form the best examples of Benin art and were created from the thirteenth century by artists of the Edo people.",
-          "dispute": "In October 2021, Nigeria demanded the return of the Benin Bronzes. Many of the Benin Bronzes in other countries, such as Germany or the United Staates, have already been returned to Nigeria."
-        },
-        "coordinates": {
-          "latitude": 6.333333,
-          "longitude": 5.616667
-        }
-      },
+
       {
         "name": "Diamond Sutra",
         "image": {
@@ -1160,187 +1142,7 @@
       "latitude": 41.866111,
       "longitude": -87.616944
     },
-    "artifacts": [
-      {
-        "name": "Tsavo Man-Eaters",
-        "image": {
-          "link": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lionsoftsavo2008.jpg",
-          "license": "CC BY-SA 3.0",
-          "attribution": {
-            "name": "Jeffrey Jung"
-          }
-        },
-        "description": {
-          "source": "https://en.wikipedia.org/wiki/Tsavo_Man-Eaters#Museum_display",
-          "general": "The Tsavo Man-Eaters were a pair of man-eating male lions in the Tsavo region of Kenya, which were responsible for the deaths of many construction workers on the Kenya-Uganda Railway between March and December 1898. Today, the Tsavo Man-Eaters are some of the most widely studied man-eating pantherine cats given their behavior of hunting humans as a pair as well as dental injuries reported in one of the lions, a cause commonly attributed to big cats turning to humans as prey.",
-          "dispute": "The government of Kenya demanded the return of the Tsavo Man-Eaters as 'first resistance' against colonial rule in 2021."
-        },
-        "coordinates": {
-          "latitude": 1,
-          "longitude": 38
-        }
-      }
-    ]
-  },
-  {
-    "name": "Neues Museum",
-    "image": {
-      "link": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Neues_Museum_-_Joy_of_Museums.jpg",
-      "license": "CC BY-SA 4.0",
-      "attribution": {
-        "name": "Joyofmuseums",
-        "link": "https://joyofmuseums.com/"
-      }
-    },
-    "description": {
-      "source": "https://en.wikipedia.org/wiki/Neues_Museum",
-      "general": "The Neues Museum (New Museum) is a museum on the Museum Island in the historic centre of Berlin. Built from 1843 to 1855 by order of King Frederick William IV of Prussia in Neoclassical and Renaissance Revival styles, it is considered as the major work of Friedrich August Stüler.",
-      "dispute": "The Neferti Bust is one of its most diputed artifacts. It has become a cultural symbol of Berlin as well as ancient Egypt and the subject of an intense argument between Egypt and Germany over Egyptian demands for its repatriation."
-    },
-    "coordinates": {
-      "latitude": 52.520556,
-      "longitude": 13.397778
-    },
-    "artifacts": [
-      {
-        "name": "Nefertiti Bust",
-        "image": {
-          "link": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Nofretete_Neues_Museum-edit.jpg",
-          "license": "CC BY-SA 3.0",
-          "attribution": {
-            "name": "Philip Pikart"
-          }
-        },
-        "description": {
-          "source": "https://en.wikipedia.org/wiki/Nefertiti_Bust",
-          "general": "The Nefertiti Bust is a painted stucco-coated limestone bust of Nefertiti, the Great Royal Wife of Egyptian pharaoh Akhenaten.",
-          "dispute": "It has also been the subject of an intense argument between Egypt and Germany over Egyptian demands for its repatriation, which began in 1924, once the bust was first displayed to the public. There have been many requests to return the bust to Egypt over the years, but these have been rejected by Germany."
-        },
-        "coordinates": {
-          "latitude": 27.645278,
-          "longitude": 30.896389
-        }
-      }
-    ]
-  },
-  {
-    "name": "Pushkin Museum",
-    "image": {
-      "link": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gmii.jpg",
-      "license": "CC BY-SA 3.0",
-      "attribution": {
-        "name": "Ghirlandajo",
-        "link": "https://commons.wikimedia.org/wiki/User:Ghirlandajo"
-      }
-    },
-    "description": {
-      "source": "https://en.wikipedia.org/wiki/Pushkin_Museum",
-      "general": "The Pushkin State Museum of Fine Arts is the largest museum of European art in Moscow.",
-      "dispute": "Many of the Priam's Treasure's disputed artifacts are currently in its collection. They were originally smuggled by Heinrich Schliemann from Hisarlik, Turkey. Many of these artifacts were aquired in 1881 by the Royal Museums of Berlin and taken by the Red Army during the Battle of Berlin. The artefacts were then flown to Moscow, where they currently are located."
-    },
-    "coordinates": {
-      "latitude": 55.747222,
-      "longitude": 37.605
-    },
-    "artifacts": [
-      {
-        "name": "Dieskau gold hoard",
-        "image": {
-          "link": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Montelius_Dieskau.png",
-          "license": "Public Domain",
-          "attribution": {
-            "name": "Oscar Montelius"
-          }
-        },
-        "description": {
-          "source": "https://de.wikipedia.org/wiki/Depot_I_von_Dieskau",
-          "general": "The Dieskau gold hoard is probably a depot find of the Early Bronze Age Aunjetitz Culture from Dieskau, Germany. According to Curt von Bülow, the hoard originally consisted of 13 objects with a total weight of four Prussian pounds (1868 g). It is thus the largest known gold hoard of the Middle German Early Bronze Age.",
-          "dispute": "Since 1945, the five surviving pieces have been in the Pushkin Museum in Moscow as looted art."
-        },
-        "coordinates": {
-          "latitude": 51.441222,
-          "longitude": 12.044361
-        }
-      },
-      {
-        "name": "Eberswalde Hoard",
-        "image": {
-          "link": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Eberswalde-Messingwerk-Siedlung-Vitrine.jpg",
-          "license": "CC BY 4.0",
-          "attribution": {
-            "name": "Bildarbeiter",
-            "link": "https://commons.wikimedia.org/wiki/User:Bildarbeiter"
-          }
-        },
-        "description": {
-          "source": "https://en.wikipedia.org/wiki/Eberswalde_Hoard",
-          "general": "The Eberswalde Hoard is a Bronze Age hoard of 81 gold objects with a total weight of 2.59 kg. The largest prehistoric assembly of gold objects ever found in Germany, it is considered to be one of the most important finds from the Central European Bronze Age.",
-          "dispute": "After the end of the Second World War in 1945, the Eberswalde Hoard disappeared from the Berlin museum. The suspicion that the Red Army might have removed both finds was denied by the Soviets for decades. In 2004, a reporter from German magazine Der Spiegel located it in a secret depot within Moscow's Pushkin Museum. Germany has requested return of the materials, and the issue has caused tension between the German and Russian governments."
-        },
-        "coordinates": {
-          "latitude": 52.846111,
-          "longitude": 13.723056
-        }
-      },
-      {
-        "name": "Gutenstein sword scabbard",
-        "image": {
-          "link": "https://upload.wikimedia.org/wikipedia/commons/d/df/Wolfskrieger_2.jpg",
-          "license": "CC BY-SA 2.0",
-          "attribution": {
-            "name": "Schristian Bickel"
-          }
-        },
-        "description": {
-          "source": "https://de.wikipedia.org/wiki/Schwertscheide_von_Gutenstein",
-          "general": "The Gutenstein sword scabbard is a magnificently decorated sword scabbard of a spatha from the 7th century, which was found in the grave of an Alamannic warrior. The special feature of this sword scabbard are the rare for the 7th century depictions of animal warriors or people with animal masks, which has few parallels in Europe.",
-          "dispute": "In 1945, the trophy commission of the Red Army confiscated the Gutenstein sword scabbard. Since then, it has been stored in the Pushkin Museum in Moscow as a cultural object lost during the war or as looted art. The actual whereabouts of the sword scabbard were uncertain for many years, as no information was received from Moscow."
-        },
-        "coordinates": {
-          "latitude": 48.078333,
-          "longitude": 9.115556
-        }
-      },
-      {
-        "name": "Priam's Treasure",
-        "image": {
-          "link": "https://upload.wikimedia.org/wikipedia/commons/7/73/Priam%27s_treasure.jpg",
-          "license": "Public Domain",
-          "attribution": {
-            "name": "Unknown"
-          }
-        },
-        "description": {
-          "source": "https://en.wikipedia.org/wiki/Priam's_Treasure",
-          "general": "Priam's Treasure is a cache of gold and other artifacts discovered by classical archaeologists Frank Calvert and Heinrich Schliemann at Hissarlik, on the northwestern coast of modern Turkey. The majority of the artifacts are currently in the Pushkin Museum in Moscow.",
-          "dispute": "Apparently, Schliemann smuggled Priam's Treasure out of Anatolia. The Ottoman government revoked Schliemann's permission to dig and sued him for its share of the gold. Later Schliemann traded some treasure to the government of the Ottoman Empire in exchange for permission to dig at Troy again."
-        },
-        "coordinates": {
-          "latitude": 39.957,
-          "longitude": 26.239
-        }
-      }
-    ]
-  },
-  {
-    "name": "Metropolitan Museum of Art",
-    "image": {
-      "link": "https://upload.wikimedia.org/wikipedia/commons/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg",
-      "license": "CC BY-SA 2.0",
-      "attribution": {
-        "name": "Jean-Christophe BENOIST",
-        "link": "https://commons.wikimedia.org/wiki/User:Jcb"
-      }
-    },
-    "description": {
-      "source": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
-      "general": "The Metropolitan Museum of Art in New York City is one of the world's largest art museums, with extensive holdings of African art in The Michael C. Rockefeller Wing.",
-      "dispute": "The Met's African collections include many objects acquired during the colonial era; communities of origin continue to debate provenance, display, and repatriation of culturally significant pieces."
-    },
-    "coordinates": {
-      "latitude": 40.779444,
-      "longitude": -73.963056
-    },
+
     "artifacts": [
       {
         "name": "Somali Headrest",
@@ -1446,26 +1248,6 @@
     },
     "artifacts": [
       {
-        "name": "Ethiopian Three-legged Stool",
-        "image": {
-          "link": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Stool%2C_Mursi_Tribe%2C_Mago%2C_Ethiopia_%2815309281293%29.jpg",
-          "license": "CC BY-SA 2.0",
-          "attribution": {
-            "name": "Rod Waddington",
-            "link": "https://www.flickr.com/photos/rod_waddington/"
-          }
-        },
-        "description": {
-          "source": "https://high.org/collection/three-legged-stool/",
-          "general": "A twentieth-century Ethiopian three-legged wooden stool in the High Museum's African art collection (accession 2008.267), typical of low seating used across southern Ethiopia.",
-          "dispute": "Stools and chairs from Ethiopia are sought by collectors abroad; Ethiopian heritage advocates argue that ceremonial and domestic seating removed during periods of conflict should be documented and, where appropriate, repatriated."
-        },
-        "coordinates": {
-          "latitude": 6.0,
-          "longitude": 36.0
-        }
-      },
-      {
         "name": "Ethiopian Chair",
         "image": {
           "link": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hamar_Stool%2C_Demeka%2C_Ethiopia_%2819227818862%29.jpg",
@@ -1530,48 +1312,6 @@
     ]
   },
   {
-    "name": "Victoria and Albert Museum",
-    "image": {
-      "link": "https://upload.wikimedia.org/wikipedia/commons/8/84/At_Victoria_and_Albert_Museum_2024_001.jpg",
-      "license": "CC BY-SA 3.0",
-      "attribution": {
-        "name": "David Iliff",
-        "link": "https://commons.wikimedia.org/wiki/User:Diliff"
-      }
-    },
-    "description": {
-      "source": "https://en.wikipedia.org/wiki/Victoria_and_Albert_Museum",
-      "general": "The Victoria and Albert Museum in London is the world's largest museum of applied arts, decorative arts, and design, with holdings from across Africa including the Horn of Africa.",
-      "dispute": "Somali and Ethiopian metalwork, textiles, and furniture in the V&A, like objects at the British Museum, are contested because many entered Britain during the colonial partition of the Somali regions and the Italian and British occupation of Ethiopia."
-    },
-    "coordinates": {
-      "latitude": 51.496667,
-      "longitude": -0.172222
-    },
-    "artifacts": [
-      {
-        "name": "Somali Silver Necklace",
-        "image": {
-          "link": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Necklace%2C_Somali_people%2C_Somalia%2C_1800s%2C_silver%2C_fiber_cord_-_National_Museum_of_Natural_History%2C_United_States_-_DSC00484.jpg",
-          "license": "CC BY-SA 4.0",
-          "attribution": {
-            "name": "Daderot",
-            "link": "https://commons.wikimedia.org/wiki/User:Daderot"
-          }
-        },
-        "description": {
-          "source": "https://collections.vam.ac.uk/item/O165058/necklace-unknown/",
-          "general": "A 19th-century Somali silver necklace with amber and carnelian beads in the V&A, comparable to dowry jewellery worn with crescent breast ornaments (sansaaro) across the Horn of Africa.",
-          "dispute": "Somali jewellery in British museums is tied to colonial military campaigns and trade; diaspora researchers argue these pieces should be accessible to Somali communities for study and, where provenance is violent, considered for restitution."
-        },
-        "coordinates": {
-          "latitude": 5.1521,
-          "longitude": 46.1996
-        }
-      }
-    ]
-  },
-  {
     "name": "National Museum of African Art",
     "image": {
       "link": "https://upload.wikimedia.org/wikipedia/commons/e/e5/National_Museum_of_African_Art_DC_2007_003.jpg",
@@ -1590,26 +1330,6 @@
       "longitude": -77.022222
     },
     "artifacts": [
-      {
-        "name": "Ethiopian High-back Stool",
-        "image": {
-          "link": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Stool%2C_Mursi_Tribe%2C_Mago%2C_Ethiopia_%2815309281293%29.jpg",
-          "license": "CC BY-SA 2.0",
-          "attribution": {
-            "name": "Rod Waddington",
-            "link": "https://www.flickr.com/photos/rod_waddington/"
-          }
-        },
-        "description": {
-          "source": "https://africa.si.edu/collection/object/nmafa_89-10-1",
-          "general": "A high-back wooden stool from Ethiopia in the National Museum of African Art (accession 89-10-1), part of a tradition of carved seating used as markers of status among southern Ethiopian peoples.",
-          "dispute": "Ethiopian stools and throne chairs in the Smithsonian and other U.S. institutions are cited in broader African restitution campaigns, including Ethiopian government and civil society calls for return of looted heritage."
-        },
-        "coordinates": {
-          "latitude": 7.6667,
-          "longitude": 36.8333
-        }
-      },
       {
         "name": "Turkana Camel Bell",
         "images": [
@@ -1636,28 +1356,48 @@
           "dispute": "Gifted to the Smithsonian National Museum of African Art by Mr. and Mrs. Harold D. Snell, the bell is linked to pastoral life in Kenya and the wider Horn/East African camel-herding world. The Smithsonian notes that large wooden camel bells in the museum's collection are attributed to herdsmen in Somalia, Ethiopia, and northern Kenya, raising broader questions about how pastoral heritage is collected, interpreted, and displayed in museums abroad."
         },
         "coordinates": {
-          "latitude": 3.1167,
-          "longitude": 35.6
+          "latitude": 6.7333,
+          "longitude": 44.2667
         }
       },
       {
         "name": "Mogadishu Amulet Necklace",
         "image": {
-          "link": "images/nmafa-76-16-1-mogadishu-amulet-necklace.png",
+          "link": "images/Amulet.png",
           "license": "Usage conditions apply",
           "attribution": {
             "name": "Smithsonian National Museum of African Art",
-            "link": "https://africa.si.edu/collection/object/nmafa_76-16-1"
+            "link": "https://africa.si.edu/collection/object/nmafa_76-16-4"
           }
         },
         "description": {
-          "source": "https://africa.si.edu/collection/object/nmafa_76-16-1",
-          "general": "A mid-20th-century necklace with amulet case from Mogadishu, Somalia, made by a Somali Hawiye or Digil clan artist. The Smithsonian describes it as a rectangular silver alloy amulet case with three bosses, twelve crotals on chains, and twelve yellow synthetic amber beads strung on plant fiber.",
-          "dispute": "Acquired in Mogadishu by Ambassador and Mrs. John Loughran between 1975 and 1976 and later gifted to the Smithsonian National Museum of African Art. As a protective hersi amulet necklace from Mogadishu, it raises questions about how Somali religious, protective, and clan-linked jewellery is collected, interpreted, and made accessible outside Somalia."
+          "source": "https://africa.si.edu/collection/object/nmafa_76-16-4",
+          "general": "Hollow rectangular silver-alloy amulet (hersi) from Mogadishu, early–mid 20th century. Floral and leaf repoussé design with three conical projections; used to hold Koranic verses for protection. Dimensions H x W x D: 4.4 x 5.4 x 3.2 cm.",
+          "dispute": "Acquired in Mogadishu and later gifted to the Smithsonian; usage conditions apply to images and reproduction."
         },
         "coordinates": {
           "latitude": 2.0469,
           "longitude": 45.3182
+        }
+      },
+      {
+        "name": "Kismayo Amber Leather Amulet",
+        "image": {
+          "link": "images/Amber_leather.png",
+          "license": "Usage conditions apply",
+          "attribution": {
+            "name": "Smithsonian National Museum of African Art",
+            "link": "https://africa.si.edu/collection/object/nmafa_69-20-5"
+          }
+        },
+        "description": {
+          "source": "https://africa.si.edu/collection/object/nmafa_69-20-5",
+          "general": "A leather strap with two large ethnic amber beads flanking a small rectangular leather amulet. The leather-covered amulet probably contains Islamic verses, and the strap appears adjustable with incised decoration on one side of the amber beads. Early 20th century, Benaadiri, Kismayo, Somalia. Dimensions L x W x D: 136.1 x 5.7 x 4.9 cm.",
+          "dispute": "Bequeathed to the Smithsonian from Mrs. Robert Woods Bliss and now held in Washington, D.C. The object highlights how Somali amulets and dress-related jewelry are collected, displayed, and interpreted outside their communities of origin."
+        },
+        "coordinates": {
+          "latitude": -0.366667,
+          "longitude": 42.533333
         }
       },
       {
@@ -1698,6 +1438,46 @@
         "coordinates": {
           "latitude": 2.0469,
           "longitude": 45.3182
+        }
+      },
+      {
+        "name": "Laasqoray Boat",
+        "image": {
+          "link": "images/Boat.png",
+          "license": "Usage conditions apply",
+          "attribution": {
+            "name": "Horn Heritage",
+            "link": "https://www.hornheritage.org/somali-heritage-around-the-world/"
+          }
+        },
+        "description": {
+          "source": "https://www.hornheritage.org/somali-heritage-around-the-world/",
+          "general": "A Somali boat from Laasqoray, Somalia. Specific maker, date, and collection details are not available from the source provided.",
+          "dispute": "Provenance information is incomplete; this entry uses only the location and source supplied by the user."
+        },
+        "coordinates": {
+          "latitude": 11.183333,
+          "longitude": 48.216667
+        }
+      },
+      {
+        "name": "Qandala Water Container",
+        "image": {
+          "link": "images/watercontainer.png",
+          "license": "Usage conditions apply",
+          "attribution": {
+            "name": "Horniman Museum",
+            "link": "https://www.horniman.ac.uk/object/2013.157/"
+          }
+        },
+        "description": {
+          "source": "https://www.horniman.ac.uk/object/2013.157/",
+          "general": "A Somali water container from Qandala, Somalia. Specific maker, date, and collection details are not available from the source provided.",
+          "dispute": "Provenance information is incomplete; this entry uses only the location and source supplied by the user."
+        },
+        "coordinates": {
+          "latitude": 11.471111,
+          "longitude": 49.873889
         }
       }
     ]
@@ -1740,6 +1520,86 @@
         "coordinates": {
           "latitude": 5.1521,
           "longitude": 46.1996
+        }
+      }
+    ]
+  },
+  {
+    "name": "University of Alberta",
+    "image": {
+      "link": "images/ua-logo.svg",
+      "license": "Public Domain",
+      "attribution": {
+        "name": "University of Alberta"
+      }
+    },
+    "description": {
+      "source": "https://edition.cnn.com/2022/12/24/world/new-minerals-discovered-in-el-ali-meteorite-scn",
+      "general": "Small slivers of the El Ali meteorite were sent to the University of Alberta for analysis in 2021; researchers identified new minerals from the sample.",
+      "dispute": "Sample provenance traced to the El Ali meteorite; the full meteorite was reported stolen."
+    },
+    "coordinates": {
+      "latitude": 53.5232,
+      "longitude": -113.5263
+    },
+    "artifacts": [
+      {
+        "name": "El Ali meteorite (origin)",
+        "image": {
+          "link": "images/elali.png",
+          "license": "Usage conditions apply",
+          "attribution": {
+            "name": "User-provided photo"
+          }
+        },
+        "description": {
+          "source": "https://edition.cnn.com/2022/12/24/world/new-minerals-discovered-in-el-ali-meteorite-scn",
+          "general": "This rock is at the center of science, international space law, and a deadly heist. It's not just any rock — one of the largest meteorites on earth — and right now we don't know where it is. In 2021 small slivers were sent to Duke University and the University of Alberta; researchers identified it as a meteorite that landed at least 2,000 years ago (possibly up to 60,000 years ago) near El Ali, Hiran, Somalia. From a 70 g sample they discovered three new minerals. When researchers asked their supplier for more information they were ghosted: the samples — and the entire meteorite — have been stolen. Reports vary: some say there was a deadly firefight, others call that an exaggeration. In 2020, during the ongoing civil war in Somalia, the meteorite left El Ali and passed through several hands; the most recent footage suggests it was moved to China and may be heading to a private collector. The rock bears irregular dents not from space but from generations in El Ali using the iron to make tools; some researchers suggest it helped start the Iron Age in Somalia. It is the source of local folklore — poems, lullabies, and stories of children riding the rock. Humans using meteorites goes way back: Tutankhamun's knife and other artefacts contain meteoritic iron. Stealing meteorites is also historic: a Martian meteorite recently sold at Sotheby's. The 1970 UNESCO convention treats meteorites as cultural property of the nation they landed in, but gray areas let them end up in private hands. Criminologists report a growing black market. This meteorite shows how science, politics, law, and people are interlocked. The National Museum of Somalia currently has a space reserved, awaiting media rights return.",
+          "dispute": "Meteorite reported stolen; reports vary on violence during removal; provenance and media-rights disputes remain."
+        },
+        "coordinates": {
+          "latitude": 4.2,
+          "longitude": 44.983333
+        }
+      }
+    ]
+  },
+  {
+    "name": "Duke University",
+    "image": {
+      "link": "images/duke-logo.svg",
+      "license": "Public Domain",
+      "attribution": {
+        "name": "Duke University"
+      }
+    },
+    "description": {
+      "source": "https://edition.cnn.com/2022/12/24/world/new-minerals-discovered-in-el-ali-meteorite-scn",
+      "general": "Researchers at Duke University received small slivers of the El Ali meteorite and contributed to mineral identification and analysis in 2021.",
+      "dispute": "Sample custody noted in reporting; the main meteorite's location remains contested."
+    },
+    "coordinates": {
+      "latitude": 36.0014,
+      "longitude": -78.9382
+    },
+    "artifacts": [
+      {
+        "name": "El Ali meteorite (origin)",
+        "image": {
+          "link": "images/elali.png",
+          "license": "Usage conditions apply",
+          "attribution": {
+            "name": "User-provided photo"
+          }
+        },
+        "description": {
+          "source": "https://edition.cnn.com/2022/12/24/world/new-minerals-discovered-in-el-ali-meteorite-scn",
+          "general": "This rock is at the center of science, international space law, and a deadly heist. It's not just any rock — one of the largest meteorites on earth — and right now we don't know where it is. In 2021 small slivers were sent to Duke University and the University of Alberta; researchers identified it as a meteorite that landed at least 2,000 years ago (possibly up to 60,000 years ago) near El Ali, Hiran, Somalia. From a 70 g sample they discovered three new minerals. When researchers asked their supplier for more information they were ghosted: the samples — and the entire meteorite — have been stolen. Reports vary: some say there was a deadly firefight, others call that an exaggeration. In 2020, during the ongoing civil war in Somalia, the meteorite left El Ali and passed through several hands; the most recent footage suggests it was moved to China and may be heading to a private collector. The rock bears irregular dents not from space but from generations in El Ali using the iron to make tools; some researchers suggest it helped start the Iron Age in Somalia. It is the source of local folklore — poems, lullabies, and stories of children riding the rock. Humans using meteorites goes way back: Tutankhamun's knife and other artefacts contain meteoritic iron. Stealing meteorites is also historic: a Martian meteorite recently sold at Sotheby's. The 1970 UNESCO convention treats meteorites as cultural property of the nation they landed in, but gray areas let them end up in private hands. Criminologists report a growing black market. This meteorite shows how science, politics, law, and people are interlocked. The National Museum of Somalia currently has a space reserved, awaiting media rights return.",
+          "dispute": "Meteorite reported stolen; reports vary on violence during removal; provenance and media-rights disputes remain."
+        },
+        "coordinates": {
+          "latitude": 4.2,
+          "longitude": 44.983333
         }
       }
     ]
