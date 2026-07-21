@@ -8,6 +8,13 @@ var map = L.map("map", {
   ],
   maxBoundsViscosity: 1.0,
   worldCopyJump: true,
+  touchZoom: true,
+  // improve mobile tapping responsiveness
+  tap: false,
+  // allow dragging on touch devices
+  dragging: true,
+  // show zoom controls (useful on small screens)
+  zoomControl: true,
 }).setView([30, 0], 3);
 
 L.tileLayer(

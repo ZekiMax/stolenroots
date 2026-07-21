@@ -7,6 +7,29 @@ body {
   height: 100vh;
 }
 
+/* Mobile / iPhone improvements */
+html, body {
+  -webkit-overflow-scrolling: touch; /* smooth scroll on iOS */
+}
+
+/* Make popups and gallery images responsive on small screens */
+.leaflet-popup-content {
+  max-width: 90vw;
+}
+
+.image-gallery .image-slides img,
+.gallery-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Ensure image controls are easy to tap */
+.image-control {
+  padding: 8px 12px;
+  font-size: 13px;
+}
+
 .siteHeader {
   top: 14px;
   left: 14px;
@@ -154,5 +177,11 @@ figure {
   .gitHubLink {
     top: 156px;
     left: 10px;
+  }
+}
+
+@media (max-width: 420px) {
+  .leaflet-popup-content {
+    font-size: 15px;
   }
 }
