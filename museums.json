@@ -1514,12 +1514,12 @@
         },
         "description": {
           "source": "https://ccc.deutsche-digitale-bibliothek.de/en/item/CIUQKAGFYLFZFIPVY2A34KKSEYZXOWIB",
-          "general": "A Somali breast jewellery object in copper alloy and silver alloy, held by the Rautenstrauch-Joest-Museum. The Collections from Colonial Contexts record lists inventory number RJM 9134, dimensions 482 x 213 x 22 mm, and cultural attribution Somali.",
+          "general": "A Somali breast jewellery object in copper alloy and silver alloy, originally from Bosaaso, Somalia. The Collections from Colonial Contexts record lists inventory number RJM 9134, dimensions 482 x 213 x 22 mm, and cultural attribution Somali.",
           "dispute": "The provenance record states that Wilhelm Joest purchased the object in Aden in 1884; it later passed through his estate, was donated in Cologne in 1899, and was transferred to the Rautenstrauch-Joest-Museum in 1901. Its documented colonial-era collecting route through Aden and Cologne makes it part of wider debates about Somali heritage held in European museums."
         },
         "coordinates": {
-          "latitude": 5.1521,
-          "longitude": 46.1996
+          "latitude": 11.2800,
+          "longitude": 49.1800
         }
       }
     ]
